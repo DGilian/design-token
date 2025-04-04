@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/DGilian/design-token#readme",
   "devDependencies": {
-    "style-dictionary": "^4.3.3",
+    "style-dictionary": "^4.3.3"
+  },
+  "scripts": {
     "build-tokens": "style-dictionary build"
   }
 }
