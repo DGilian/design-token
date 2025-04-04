@@ -13,7 +13,7 @@ internal struct StyleDictionaryStruct {
     internal static let bordersStylesDashed = [object Object]
     internal static let bordersStylesSolid = solid
     internal static let bordersWireframe = [object Object]
-    internal static let colorsBlack = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    internal static let colorsBlack = #11111
     internal static let colorsOrange100 = UIColor(red: 1.000, green: 0.980, blue: 0.941, alpha: 1)
     internal static let colorsOrange200 = UIColor(red: 0.996, green: 0.922, blue: 0.784, alpha: 1)
     internal static let colorsOrange300 = UIColor(red: 0.984, green: 0.827, blue: 0.553, alpha: 1)

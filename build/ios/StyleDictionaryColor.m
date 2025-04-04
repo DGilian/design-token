@@ -20,7 +20,7 @@
 
   dispatch_once(&onceToken, ^{
     colorArray = @[
-[UIColor colorWithRed:0.000f green:0.000f blue:0.000f alpha:1.000f],
+#11111,
 [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],
 [UIColor colorWithRed:1.000f green:0.980f blue:0.941f alpha:1.000f],
 [UIColor colorWithRed:0.996f green:0.922f blue:0.784f alpha:1.000f],

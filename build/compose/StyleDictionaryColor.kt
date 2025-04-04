@@ -10,7 +10,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.*
 
 object StyleDictionaryColor {
-  val colorsBlack = Color(0xff000000)
+  val colorsBlack = #11111
   val colorsOrange100 = Color(0xfffffaf0)
   val colorsOrange200 = Color(0xfffeebc8)
   val colorsOrange300 = Color(0xfffbd38d)
