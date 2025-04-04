@@ -13,7 +13,7 @@ public enum StyleDictionaryEnum {
     public static let bordersStylesDashed = [object Object]
     public static let bordersStylesSolid = solid
     public static let bordersWireframe = [object Object]
-    public static let colorsBlack = #11111
+    public static let colorsBlack = #22222
     public static let colorsOrange100 = UIColor(red: 1.000, green: 0.980, blue: 0.941, alpha: 1)
     public static let colorsOrange200 = UIColor(red: 0.996, green: 0.922, blue: 0.784, alpha: 1)
     public static let colorsOrange300 = UIColor(red: 0.984, green: 0.827, blue: 0.553, alpha: 1)
