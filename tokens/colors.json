@@ -2,7 +2,7 @@
   "colors": {
     "$type": "color",
     "black": {
-      "$value": "#11111"
+      "$value": "#22222"
     },
     "white": {
       "$value": "#ffffff"
