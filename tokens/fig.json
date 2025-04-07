@@ -2,7 +2,7 @@
     "font": {
       "heading 1": {
         "description": "Titre des tranches\nTitre de la HP Event 3 tiers\nTitre de la HP Event 2 tiers",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 37,
           "textDecoration": "none",
@@ -25,7 +25,7 @@
       },
       "heading 2": {
         "description": "Titres des articles",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 28,
           "textDecoration": "none",
@@ -48,7 +48,7 @@
       },
       "heading 3": {
         "description": "Titre des exergues\nIntertitre\nTitres des newsletters\nTitre widget paywall\nTitres articles en position 1",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 24,
           "textDecoration": "none",
@@ -71,7 +71,7 @@
       },
       "heading 4": {
         "description": "Titres articles dans le fleuve\nTitre premier article de l'ensemble en première position\nTitre premier article de l'ensemble",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 20,
           "textDecoration": "none",
@@ -94,7 +94,7 @@
       },
       "heading 5": {
         "description": "Titres des articles de l'ensemble\nTitres des articles recommandés\nTitre ensemble dans le fleuve\nTitres articles dans les ensemble\nTitre d'un dossier\nTitre de l'article de l'alerte",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 16,
           "textDecoration": "none",
@@ -117,7 +117,7 @@
       },
       "heading 6": {
         "description": "Titres des profils articles de la HP Event\nTitres articles dans la sélection",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 18,
           "textDecoration": "none",
@@ -140,7 +140,7 @@
       },
       "standfirst 1": {
         "description": "Chapo des pages articles",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 20,
           "textDecoration": "none",
@@ -163,7 +163,7 @@
       },
       "standfirst 2": {
         "description": "Chapo de la HP Event",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 24,
           "textDecoration": "none",
@@ -186,7 +186,7 @@
       },
       "standfirst 3": {
         "description": "Chapo HP Event 2 tiers",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 20,
           "textDecoration": "none",
@@ -209,7 +209,7 @@
       },
       "standfirst 4": {
         "description": "Chapo profils position 1\nChapo premier article d'un ensemble en première position",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 16,
           "textDecoration": "none",
@@ -232,7 +232,7 @@
       },
       "standfirst 5": {
         "description": "Chapo des articles du fleuve\nChapo des articles de tranches\nArticles mini-home auto\nChapo des proils en première position",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 14,
           "textDecoration": "none",
@@ -255,7 +255,7 @@
       },
       "body": {
         "description": "Corps de texte dans les articles",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 18,
           "textDecoration": "none",
@@ -277,7 +277,7 @@
         }
       },
       "quote": {
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 28,
           "textDecoration": "none",
@@ -300,7 +300,7 @@
       },
       "title 1": {
         "description": "Titres des tranches partenaires\nTitre du Flash sur la page Flash",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 28,
           "textDecoration": "none",
@@ -323,7 +323,7 @@
       },
       "title 2": {
         "description": "Titres des widgets sport",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 24,
           "textDecoration": "none",
@@ -346,7 +346,7 @@
       },
       "title 3": {
         "description": "Titre de la recommandation\nTitre des commentaires\nTitre mini-home auto\nTitre d'articles des flash sur la page flash\nTitre du footer SEO",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 20,
           "textDecoration": "none",
@@ -368,7 +368,7 @@
         }
       },
       "title 4": {
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 16,
           "textDecoration": "none",
@@ -390,7 +390,7 @@
         }
       },
       "title 5": {
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 14,
           "textDecoration": "none",
@@ -413,7 +413,7 @@
       },
       "caption 1": {
         "description": "Label de connexion dans le paywall\nCrédits des citations\nTitre de l'alerte\nDate de publication\nAuteur de l'article\nTexte de l'encadré",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 16,
           "textDecoration": "none",
@@ -436,7 +436,7 @@
       },
       "caption 2": {
         "description": "Chapo des articles dans la page flash\nSlug\nDate de publication des commentaires\nDate de publication dans le fleuve\nFil d'Ariane\nMention partenariat\nLiens du footer SEO\nLabels sponsorisés\nLabels des boutons",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 14,
           "textDecoration": "none",
@@ -459,7 +459,7 @@
       },
       "caption 3": {
         "description": "???",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 12,
           "textDecoration": "none",
@@ -482,7 +482,7 @@
       },
       "link 1": {
         "description": "Nom de l'auteur cliquable",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 16,
           "textDecoration": "none",
@@ -505,7 +505,7 @@
       },
       "link 2": {
         "description": "Lien vers les articles dans les articles",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 16,
           "textDecoration": "underline",
@@ -528,7 +528,7 @@
       },
       "link 3": {
         "description": "Tags",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 14,
           "textDecoration": "underline",
@@ -551,7 +551,7 @@
       },
       "button": {
         "description": "Labels des boutons",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 14,
           "textDecoration": "none",
@@ -574,7 +574,7 @@
       },
       "credit": {
         "description": "Crédits d'une image",
-        "type": "custom-fontStyle",
+        "type": "typography",
         "value": {
           "fontSize": 14,
           "textDecoration": "none",
