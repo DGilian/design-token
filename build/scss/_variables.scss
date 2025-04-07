@@ -1,0 +1,2439 @@
+
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+$font-heading-1: [object Object] !default;
+$font-heading-2: [object Object] !default;
+$font-heading-3: [object Object] !default;
+$font-heading-4: [object Object] !default;
+$font-heading-5: [object Object] !default;
+$font-heading-6: [object Object] !default;
+$font-standfirst-1: [object Object] !default;
+$font-standfirst-2: [object Object] !default;
+$font-standfirst-3: [object Object] !default;
+$font-standfirst-4: [object Object] !default;
+$font-standfirst-5: [object Object] !default;
+$font-body: [object Object] !default;
+$font-quote: [object Object] !default;
+$font-title-1: [object Object] !default;
+$font-title-2: [object Object] !default;
+$font-title-3: [object Object] !default;
+$font-title-4: [object Object] !default;
+$font-title-5: [object Object] !default;
+$font-caption-1: [object Object] !default;
+$font-caption-2: [object Object] !default;
+$font-caption-3: [object Object] !default;
+$font-link-1: [object Object] !default;
+$font-link-2: [object Object] !default;
+$font-link-3: [object Object] !default;
+$font-button: [object Object] !default;
+$font-credit: [object Object] !default;
+$size-size-7: 3.5rem !default;
+$size-size-3: 1.5rem !default;
+$size-size-5: 2.5rem !default;
+$size-size-6: 3rem !default;
+$size-size-4: 2rem !default;
+$size-size-1: 0.5rem !default;
+$size-size-1-5: 0.75rem !default;
+$size-size-8: 4rem !default;
+$size-size-0-5: 0.25rem !default;
+$size-size-10: 5rem !default;
+$size-size-2: 1rem !default;
+$size-size-9: 4.5rem !default;
+$size-size-0-25: 0.125rem !default;
+$size-border-size-border-default: 0.125rem !default;
+$colors-figaro-semantic-background-color-bg-primary: hsl(0, 0%, 100%) !default;
+$colors-figaro-semantic-background-color-bg-secondary: hsl(212, 63%, 23%) !default;
+$colors-figaro-semantic-background-color-bg-ads: hsl(0, 0%, 95%) !default;
+$colors-figaro-semantic-background-color-bg-tertiary: hsl(214, 88%, 84%) !default;
+$colors-figaro-semantic-background-color-bg-highlight: hsl(214, 90%, 49%) !default;
+$colors-figaro-semantic-background-color-bg-subscribe-soft: hsl(42, 100%, 95%) !default;
+$colors-figaro-semantic-background-color-bg-subscribe-bold: hsl(43, 83%, 55%) !default;
+$colors-figaro-semantic-content-color-content-primary: hsl(212, 63%, 23%) !default;
+$colors-figaro-semantic-content-color-content-highlight: hsl(213, 71%, 43%) !default;
+$colors-figaro-semantic-content-color-content-secondary: hsl(0, 0%, 45%) !default;
+$colors-figaro-semantic-content-color-content-alert: hsl(351, 93%, 47%) !default;
+$colors-figaro-semantic-content-color-content-subscribe: hsl(43, 83%, 55%) !default;
+$colors-figaro-semantic-content-color-content-ads-primary: hsl(0, 0%, 20%) !default;
+$colors-figaro-semantic-content-color-content-ads-secondary: hsl(0, 0%, 45%) !default;
+$colors-figaro-semantic-content-color-content-on-colored-bg: hsl(0, 0%, 100%) !default;
+$colors-figaro-semantic-content-color-content-success: hsl(153, 62%, 31%) !default;
+$colors-figaro-semantic-border-color-border-primary: hsl(0, 0%, 80%) !default;
+$colors-figaro-semantic-border-color-border-secondary: hsl(214, 88%, 84%) !default;
+$colors-figaro-button-primary-color-bg-button-primary-default: hsl(212, 63%, 23%) !default;
+$colors-figaro-button-primary-color-bg-button-primary-hover: hsl(213, 71%, 43%) !default;
+$colors-figaro-button-primary-color-bg-button-primary-focus: hsl(212, 63%, 23%) !default;
+$colors-figaro-button-primary-color-bg-button-primary-disabled: hsl(0, 0%, 80%) !default;
+$colors-figaro-button-primary-color-bg-button-primary-pressed: hsl(213, 71%, 43%) !default;
+$colors-figaro-button-secondary-color-bg-button-secondary-default: hsla(0, 0%, 100%, 0) !default;
+$colors-figaro-button-secondary-color-bg-button-secondary-hover: hsla(0, 0%, 100%, 0) !default;
+$colors-figaro-button-secondary-color-bg-button-secondary-focus: hsla(0, 0%, 100%, 0) !default;
+$colors-figaro-button-secondary-color-bg-button-secondary-disabled: hsla(0, 0%, 100%, 0) !default;
+$colors-figaro-button-secondary-color-bg-button-secondary-pressed: hsla(0, 0%, 100%, 0) !default;
+$colors-figaro-button-secondary-color-border-button-secondary-default: hsl(212, 63%, 23%) !default;
+$colors-figaro-button-secondary-color-border-button-secondary-hover: hsl(213, 71%, 43%) !default;
+$colors-figaro-button-secondary-color-content-button-secondary-default: hsl(212, 63%, 23%) !default;
+$colors-figaro-button-secondary-color-content-button-secondary-hover: hsl(213, 71%, 43%) !default;
+$colors-figaro-button-secondary-color-border-button-secondary-focus: hsl(212, 63%, 23%) !default;
+$colors-figaro-button-secondary-color-border-button-secondary-disabled: hsl(0, 0%, 80%) !default;
+$colors-figaro-button-secondary-color-border-button-secondary-pressed: hsl(213, 71%, 43%) !default;
+$colors-figaro-button-on-colored-bg-color-bg-button-on-colored-bg-default: hsl(0, 0%, 100%) !default;
+$colors-figaro-button-on-colored-bg-color-bg-button-on-colored-bg-hover: hsl(0, 0%, 100%) !default;
+$colors-figaro-button-on-colored-bg-color-bg-button-on-colored-bg-focus: hsl(0, 0%, 100%) !default;
+$colors-figaro-button-on-colored-bg-color-bg-button-on-colored-bg-disabled: hsl(0, 0%, 100%) !default;
+$colors-figaro-button-on-colored-bg-color-bg-button-on-colored-bg-pressed: hsl(0, 0%, 100%) !default;
+$colors-figaro-button-subscribe-color-bg-button-subscribe-default: hsl(43, 83%, 55%) !default;
+$colors-figaro-button-subscribe-color-bg-button-subscribe-hover: hsl(43, 100%, 64%) !default;
+$colors-figaro-button-subscribe-color-bg-button-subscribe-focus: hsl(43, 100%, 64%) !default;
+$colors-figaro-button-subscribe-color-bg-button-subscribe-disabled: hsl(0, 0%, 80%) !default;
+$colors-figaro-button-subscribe-color-bg-button-subscribe-pressed: hsl(43, 100%, 64%) !default;
+$colors-figaro-button-accent-color-bg-button-accent-default: hsl(214, 90%, 49%) !default;
+$colors-figaro-button-accent-color-bg-button-accent-hover: hsl(213, 71%, 43%) !default;
+$colors-figaro-button-accent-color-bg-button-accent-focus: hsl(214, 90%, 49%) !default;
+$colors-figaro-button-accent-color-bg-button-accent-disabled: hsl(0, 0%, 80%) !default;
+$colors-figaro-button-accent-color-bg-button-accent-pressed: hsl(213, 71%, 43%) !default;
+$colors-figaro-footer-color-bg-footer: hsl(212, 63%, 23%) !default;
+$colors-figaro-footer-color-content-footer: hsl(0, 0%, 100%) !default;
+$colors-figaro-form-color-border-elementform-default: hsl(0, 0%, 45%) !default;
+$colors-figaro-form-color-border-elementform-hover: hsl(213, 71%, 43%) !default;
+$colors-figaro-form-color-border-elementform-error: hsl(351, 93%, 47%) !default;
+$colors-figaro-form-color-border-elementform-focus: hsl(213, 71%, 43%) !default;
+$colors-figaro-form-color-border-elementform-disabled: hsl(0, 0%, 45%) !default;
+$colors-madame-semantic-background-color-bg-primary: hsl(0, 0%, 100%) !default;
+$colors-madame-semantic-background-color-bg-secondary: hsl(0, 0%, 7%) !default;
+$colors-madame-semantic-background-color-bg-ads: hsl(0, 0%, 95%) !default;
+$colors-madame-semantic-background-color-bg-tertiary: hsl(30, 38%, 94%) !default;
+$colors-madame-semantic-background-color-bg-highlight: hsl(0, 0%, 7%) !default;
+$colors-madame-semantic-background-color-bg-subscribe-soft: hsl(42, 100%, 95%) !default;
+$colors-madame-semantic-background-color-bg-subscribe-bold: hsl(43, 83%, 55%) !default;
+$colors-madame-semantic-content-color-content-primary: hsl(0, 0%, 7%) !default;
+$colors-madame-semantic-content-color-content-highlight: hsl(351, 93%, 47%) !default;
+$colors-madame-semantic-content-color-content-secondary: hsl(0, 0%, 45%) !default;
+$colors-madame-semantic-content-color-content-alert: hsl(351, 93%, 47%) !default;
+$colors-madame-semantic-content-color-content-subscribe: hsl(43, 83%, 55%) !default;
+$colors-madame-semantic-content-color-content-ads-primary: hsl(0, 0%, 20%) !default;
+$colors-madame-semantic-content-color-content-ads-secondary: hsl(0, 0%, 45%) !default;
+$colors-madame-semantic-content-color-content-on-colored-bg: hsl(0, 0%, 100%) !default;
+$colors-madame-semantic-content-color-content-success: hsl(153, 62%, 31%) !default;
+$colors-madame-semantic-border-color-border-primary: hsl(0, 0%, 80%) !default;
+$colors-madame-semantic-border-color-border-secondary: hsl(0, 0%, 7%) !default;
+$colors-madame-button-primary-color-bg-button-primary-default: hsl(0, 0%, 7%) !default;
+$colors-madame-button-primary-color-bg-button-primary-hover: hsl(351, 93%, 47%) !default;
+$colors-madame-button-primary-color-bg-button-primary-focus: hsl(0, 0%, 7%) !default;
+$colors-madame-button-primary-color-bg-button-primary-disabled: hsl(0, 0%, 80%) !default;
+$colors-madame-button-primary-color-bg-button-primary-pressed: hsl(351, 93%, 47%) !default;
+$colors-madame-button-secondary-color-bg-button-secondary-default: hsl(0, 0%, 100%) !default;
+$colors-madame-button-secondary-color-bg-button-secondary-hover: hsl(0, 0%, 100%) !default;
+$colors-madame-button-secondary-color-bg-button-secondary-focus: hsl(0, 0%, 100%) !default;
+$colors-madame-button-secondary-color-bg-button-secondary-disabled: hsl(0, 0%, 100%) !default;
+$colors-madame-button-secondary-color-bg-button-secondary-pressed: hsl(0, 0%, 100%) !default;
+$colors-madame-button-secondary-color-border-button-secondary-default: hsl(0, 0%, 7%) !default;
+$colors-madame-button-secondary-color-border-button-secondary-hover: hsl(351, 93%, 47%) !default;
+$colors-madame-button-secondary-color-content-button-secondary-default: hsl(0, 0%, 7%) !default;
+$colors-madame-button-secondary-color-content-button-secondary-hover: hsl(351, 93%, 47%) !default;
+$colors-madame-button-secondary-color-border-button-secondary-focus: hsl(0, 0%, 7%) !default;
+$colors-madame-button-secondary-color-border-button-secondary-disabled: hsl(0, 0%, 80%) !default;
+$colors-madame-button-secondary-color-border-button-secondary-pressed: hsl(351, 93%, 47%) !default;
+$colors-madame-button-on-colored-bg-color-bg-button-on-colored-bg-default: hsl(0, 0%, 100%) !default;
+$colors-madame-button-on-colored-bg-color-bg-button-on-colored-bg-hover: hsl(0, 0%, 100%) !default;
+$colors-madame-button-on-colored-bg-color-bg-button-on-colored-bg-focus: hsl(0, 0%, 100%) !default;
+$colors-madame-button-on-colored-bg-color-bg-button-on-colored-bg-disabled: hsl(0, 0%, 100%) !default;
+$colors-madame-button-on-colored-bg-color-bg-button-on-colored-bg-pressed: hsl(0, 0%, 100%) !default;
+$colors-madame-button-subscribe-color-bg-button-subscribe-default: hsl(43, 83%, 55%) !default;
+$colors-madame-button-subscribe-color-bg-button-subscribe-hover: hsl(43, 100%, 64%) !default;
+$colors-madame-button-subscribe-color-bg-button-subscribe-focus: hsl(43, 100%, 64%) !default;
+$colors-madame-button-subscribe-color-bg-button-subscribe-disabled: hsl(0, 0%, 80%) !default;
+$colors-madame-button-subscribe-color-bg-button-subscribe-pressed: hsl(43, 100%, 64%) !default;
+$colors-madame-button-accent-color-bg-button-accent-default: hsla(0, 0%, 100%, 0) !default;
+$colors-madame-button-accent-color-bg-button-accent-hover: hsla(0, 0%, 100%, 0) !default;
+$colors-madame-button-accent-color-bg-button-accent-focus: hsla(0, 0%, 100%, 0) !default;
+$colors-madame-button-accent-color-bg-button-accent-disabled: hsla(0, 0%, 100%, 0) !default;
+$colors-madame-button-accent-color-bg-button-accent-pressed: hsla(0, 0%, 100%, 0) !default;
+$colors-madame-footer-color-bg-footer: hsl(0, 0%, 7%) !default;
+$colors-madame-footer-color-content-footer: hsl(0, 0%, 100%) !default;
+$colors-madame-form-color-border-elementform-default: hsl(0, 0%, 45%) !default;
+$colors-madame-form-color-border-elementform-hover: hsl(351, 93%, 47%) !default;
+$colors-madame-form-color-border-elementform-error: hsl(351, 93%, 47%) !default;
+$colors-madame-form-color-border-elementform-focus: hsl(351, 93%, 47%) !default;
+$colors-madame-form-color-border-elementform-disabled: hsl(0, 0%, 45%) !default;
+$colors-gala-semantic-background-color-bg-primary: hsl(0, 0%, 100%) !default;
+$colors-gala-semantic-background-color-bg-secondary: hsl(0, 0%, 100%) !default;
+$colors-gala-semantic-background-color-bg-ads: hsl(0, 0%, 95%) !default;
+$colors-gala-semantic-background-color-bg-tertiary: hsl(0, 0%, 100%) !default;
+$colors-gala-semantic-background-color-bg-highlight: hsl(0, 0%, 7%) !default;
+$colors-gala-semantic-background-color-bg-subscribe-soft: hsla(0, 0%, 100%, 0) !default;
+$colors-gala-semantic-background-color-bg-subscribe-bold: hsla(0, 0%, 100%, 0) !default;
+$colors-gala-semantic-content-color-content-primary: hsl(0, 0%, 7%) !default;
+$colors-gala-semantic-content-color-content-highlight: hsl(351, 93%, 47%) !default;
+$colors-gala-semantic-content-color-content-secondary: hsl(0, 0%, 45%) !default;
+$colors-gala-semantic-content-color-content-alert: hsl(351, 93%, 47%) !default;
+$colors-gala-semantic-content-color-content-subscribe: hsl(0, 0%, 7%) !default;
+$colors-gala-semantic-content-color-content-ads-primary: hsl(0, 0%, 20%) !default;
+$colors-gala-semantic-content-color-content-ads-secondary: hsl(0, 0%, 45%) !default;
+$colors-gala-semantic-content-color-content-on-colored-bg: hsl(0, 0%, 100%) !default;
+$colors-gala-semantic-content-color-content-success: hsl(153, 62%, 31%) !default;
+$colors-gala-semantic-border-color-border-primary: hsl(0, 0%, 80%) !default;
+$colors-gala-semantic-border-color-border-secondary: hsl(351, 93%, 47%) !default;
+$colors-gala-button-primary-color-bg-button-primary-default: hsl(351, 93%, 47%) !default;
+$colors-gala-button-primary-color-bg-button-primary-hover: hsl(351, 93%, 47%) !default;
+$colors-gala-button-primary-color-bg-button-primary-focus: hsl(351, 93%, 47%) !default;
+$colors-gala-button-primary-color-bg-button-primary-disabled: hsl(0, 0%, 80%) !default;
+$colors-gala-button-primary-color-bg-button-primary-pressed: hsl(351, 93%, 47%) !default;
+$colors-gala-button-secondary-color-bg-button-secondary-default: hsl(0, 0%, 100%) !default;
+$colors-gala-button-secondary-color-bg-button-secondary-hover: hsl(0, 0%, 100%) !default;
+$colors-gala-button-secondary-color-bg-button-secondary-focus: hsl(0, 0%, 100%) !default;
+$colors-gala-button-secondary-color-bg-button-secondary-disabled: hsl(0, 0%, 100%) !default;
+$colors-gala-button-secondary-color-bg-button-secondary-pressed: hsl(0, 0%, 100%) !default;
+$colors-gala-button-secondary-color-border-button-secondary-default: hsl(0, 0%, 7%) !default;
+$colors-gala-button-secondary-color-border-button-secondary-hover: hsl(351, 93%, 47%) !default;
+$colors-gala-button-secondary-color-content-button-secondary-default: hsl(0, 0%, 7%) !default;
+$colors-gala-button-secondary-color-content-button-secondary-hover: hsl(351, 93%, 47%) !default;
+$colors-gala-button-secondary-color-border-button-secondary-focus: hsl(0, 0%, 7%) !default;
+$colors-gala-button-secondary-color-border-button-secondary-disabled: hsl(0, 0%, 80%) !default;
+$colors-gala-button-secondary-color-border-button-secondary-pressed: hsl(351, 93%, 47%) !default;
+$colors-gala-button-on-colored-bg-color-bg-button-on-colored-bg-default: hsl(0, 0%, 100%) !default;
+$colors-gala-button-on-colored-bg-color-bg-button-on-colored-bg-hover: hsl(0, 0%, 100%) !default;
+$colors-gala-button-on-colored-bg-color-bg-button-on-colored-bg-focus: hsl(0, 0%, 100%) !default;
+$colors-gala-button-on-colored-bg-color-bg-button-on-colored-bg-disabled: hsl(0, 0%, 100%) !default;
+$colors-gala-button-on-colored-bg-color-bg-button-on-colored-bg-pressed: hsl(0, 0%, 100%) !default;
+$colors-gala-button-subscribe-color-bg-button-subscribe-default: hsl(0, 0%, 7%) !default;
+$colors-gala-button-subscribe-color-bg-button-subscribe-hover: hsl(351, 93%, 47%) !default;
+$colors-gala-button-subscribe-color-bg-button-subscribe-focus: hsl(351, 93%, 47%) !default;
+$colors-gala-button-subscribe-color-bg-button-subscribe-disabled: hsl(0, 0%, 80%) !default;
+$colors-gala-button-subscribe-color-bg-button-subscribe-pressed: hsl(351, 93%, 47%) !default;
+$colors-gala-button-accent-color-bg-button-accent-default: hsla(0, 0%, 100%, 0) !default;
+$colors-gala-button-accent-color-bg-button-accent-hover: hsla(0, 0%, 100%, 0) !default;
+$colors-gala-button-accent-color-bg-button-accent-focus: hsla(0, 0%, 100%, 0) !default;
+$colors-gala-button-accent-color-bg-button-accent-disabled: hsla(0, 0%, 100%, 0) !default;
+$colors-gala-button-accent-color-bg-button-accent-pressed: hsla(0, 0%, 100%, 0) !default;
+$colors-gala-footer-color-bg-footer: hsl(0, 0%, 100%) !default;
+$colors-gala-footer-color-content-footer: hsl(0, 0%, 7%) !default;
+$colors-gala-form-color-border-elementform-default: hsl(0, 0%, 45%) !default;
+$colors-gala-form-color-border-elementform-hover: hsl(351, 93%, 47%) !default;
+$colors-gala-form-color-border-elementform-error: hsl(351, 93%, 47%) !default;
+$colors-gala-form-color-border-elementform-focus: hsl(351, 93%, 47%) !default;
+$colors-gala-form-color-border-elementform-disabled: hsl(0, 0%, 45%) !default;
+$core-colors-figaro-blue-50: hsl(213, 85%, 95%) !default;
+$core-colors-figaro-blue-100: hsl(214, 88%, 84%) !default;
+$core-colors-figaro-blue-200: hsl(214, 88%, 77%) !default;
+$core-colors-figaro-blue-300: hsl(214, 87%, 66%) !default;
+$core-colors-figaro-blue-400: hsl(214, 87%, 59%) !default;
+$core-colors-figaro-blue-500: hsl(214, 90%, 49%) !default;
+$core-colors-figaro-blue-600: hsl(213, 71%, 43%) !default;
+$core-colors-figaro-blue-700: hsl(212, 72%, 39%) !default;
+$core-colors-figaro-blue-800: hsl(213, 71%, 30%) !default;
+$core-colors-figaro-blue-900: hsl(212, 63%, 23%) !default;
+$core-colors-figaro-green-50: hsl(153, 26%, 93%) !default;
+$core-colors-figaro-green-100: hsl(153, 28%, 79%) !default;
+$core-colors-figaro-green-200: hsl(152, 28%, 68%) !default;
+$core-colors-figaro-green-300: hsl(152, 29%, 54%) !default;
+$core-colors-figaro-green-400: hsl(153, 34%, 45%) !default;
+$core-colors-figaro-green-500: hsl(153, 62%, 31%) !default;
+$core-colors-figaro-green-600: hsl(153, 63%, 28%) !default;
+$core-colors-figaro-green-700: hsl(153, 63%, 22%) !default;
+$core-colors-figaro-green-800: hsl(152, 61%, 17%) !default;
+$core-colors-figaro-green-900: hsl(152, 61%, 13%) !default;
+$core-colors-figaro-yellow-50: hsl(42, 100%, 95%) !default;
+$core-colors-figaro-yellow-100: hsl(43, 100%, 89%) !default;
+$core-colors-figaro-yellow-200: hsl(43, 100%, 83%) !default;
+$core-colors-figaro-yellow-300: hsl(43, 100%, 76%) !default;
+$core-colors-figaro-yellow-400: hsl(43, 100%, 71%) !default;
+$core-colors-figaro-yellow-500: hsl(43, 100%, 64%) !default;
+$core-colors-figaro-yellow-600: hsl(43, 83%, 55%) !default;
+$core-colors-figaro-yellow-700: hsl(43, 68%, 51%) !default;
+$core-colors-figaro-yellow-800: hsl(43, 67%, 39%) !default;
+$core-colors-figaro-yellow-900: hsl(43, 67%, 31%) !default;
+$core-colors-figaro-grey-50: hsl(0, 0%, 95%) !default;
+$core-colors-figaro-grey-100: hsl(0, 0%, 85%) !default;
+$core-colors-figaro-grey-200: hsl(0, 0%, 80%) !default;
+$core-colors-figaro-grey-300: hsl(0, 0%, 65%) !default;
+$core-colors-figaro-grey-400: hsl(0, 0%, 55%) !default;
+$core-colors-figaro-grey-500: hsl(0, 0%, 45%) !default;
+$core-colors-figaro-grey-600: hsl(0, 0%, 34%) !default;
+$core-colors-figaro-grey-700: hsl(0, 0%, 25%) !default;
+$core-colors-figaro-grey-800: hsl(0, 0%, 20%) !default;
+$core-colors-figaro-grey-900: hsl(0, 0%, 7%) !default;
+$core-colors-figaro-grey-white: hsl(0, 0%, 100%) !default;
+$core-colors-figaro-grey-black: hsl(0, 0%, 0%) !default;
+$core-colors-figaro-red-50: hsl(356, 100%, 97%) !default;
+$core-colors-figaro-red-100: hsl(1, 72%, 85%) !default;
+$core-colors-figaro-red-200: hsl(1, 71%, 77%) !default;
+$core-colors-figaro-red-300: hsl(1, 71%, 66%) !default;
+$core-colors-figaro-red-400: hsl(1, 71%, 60%) !default;
+$core-colors-figaro-red-500: hsl(351, 93%, 47%) !default;
+$core-colors-figaro-red-600: hsl(1, 71%, 45%) !default;
+$core-colors-figaro-red-700: hsl(1, 71%, 35%) !default;
+$core-colors-figaro-red-800: hsl(1, 71%, 27%) !default;
+$core-colors-figaro-red-900: hsl(2, 72%, 21%) !default;
+$core-colors-figaro-beige-100: hsl(30, 38%, 94%) !default;
+$core-colors-madame-blue-50: hsl(213, 85%, 95%) !default;
+$core-colors-madame-blue-100: hsl(214, 88%, 84%) !default;
+$core-colors-madame-blue-200: hsl(214, 88%, 77%) !default;
+$core-colors-madame-blue-300: hsl(214, 87%, 66%) !default;
+$core-colors-madame-blue-400: hsl(214, 87%, 59%) !default;
+$core-colors-madame-blue-500: hsl(214, 90%, 49%) !default;
+$core-colors-madame-blue-600: hsl(213, 71%, 43%) !default;
+$core-colors-madame-blue-700: hsl(212, 72%, 39%) !default;
+$core-colors-madame-blue-800: hsl(213, 71%, 30%) !default;
+$core-colors-madame-blue-900: hsl(212, 63%, 23%) !default;
+$core-colors-madame-green-50: hsl(153, 26%, 93%) !default;
+$core-colors-madame-green-100: hsl(153, 28%, 79%) !default;
+$core-colors-madame-green-200: hsl(152, 28%, 68%) !default;
+$core-colors-madame-green-300: hsl(152, 29%, 54%) !default;
+$core-colors-madame-green-400: hsl(153, 34%, 45%) !default;
+$core-colors-madame-green-500: hsl(153, 62%, 31%) !default;
+$core-colors-madame-green-600: hsl(153, 63%, 28%) !default;
+$core-colors-madame-green-700: hsl(153, 63%, 22%) !default;
+$core-colors-madame-green-800: hsl(152, 61%, 17%) !default;
+$core-colors-madame-green-900: hsl(152, 61%, 13%) !default;
+$core-colors-madame-yellow-50: hsl(42, 100%, 95%) !default;
+$core-colors-madame-yellow-100: hsl(43, 100%, 89%) !default;
+$core-colors-madame-yellow-200: hsl(43, 100%, 83%) !default;
+$core-colors-madame-yellow-300: hsl(43, 100%, 76%) !default;
+$core-colors-madame-yellow-400: hsl(43, 100%, 71%) !default;
+$core-colors-madame-yellow-500: hsl(43, 100%, 64%) !default;
+$core-colors-madame-yellow-600: hsl(43, 83%, 55%) !default;
+$core-colors-madame-yellow-700: hsl(43, 68%, 51%) !default;
+$core-colors-madame-yellow-800: hsl(43, 67%, 39%) !default;
+$core-colors-madame-yellow-900: hsl(43, 67%, 31%) !default;
+$core-colors-madame-grey-50: hsl(0, 0%, 95%) !default;
+$core-colors-madame-grey-100: hsl(0, 0%, 85%) !default;
+$core-colors-madame-grey-200: hsl(0, 0%, 80%) !default;
+$core-colors-madame-grey-300: hsl(0, 0%, 65%) !default;
+$core-colors-madame-grey-400: hsl(0, 0%, 55%) !default;
+$core-colors-madame-grey-500: hsl(0, 0%, 45%) !default;
+$core-colors-madame-grey-600: hsl(0, 0%, 34%) !default;
+$core-colors-madame-grey-700: hsl(0, 0%, 25%) !default;
+$core-colors-madame-grey-800: hsl(0, 0%, 20%) !default;
+$core-colors-madame-grey-900: hsl(0, 0%, 7%) !default;
+$core-colors-madame-grey-white: hsl(0, 0%, 100%) !default;
+$core-colors-madame-grey-black: hsl(0, 0%, 0%) !default;
+$core-colors-madame-red-50: hsl(356, 100%, 97%) !default;
+$core-colors-madame-red-100: hsl(1, 72%, 85%) !default;
+$core-colors-madame-red-200: hsl(1, 71%, 77%) !default;
+$core-colors-madame-red-300: hsl(1, 71%, 66%) !default;
+$core-colors-madame-red-400: hsl(1, 71%, 60%) !default;
+$core-colors-madame-red-500: hsl(351, 93%, 47%) !default;
+$core-colors-madame-red-600: hsl(1, 71%, 45%) !default;
+$core-colors-madame-red-700: hsl(1, 71%, 35%) !default;
+$core-colors-madame-red-800: hsl(1, 71%, 27%) !default;
+$core-colors-madame-red-900: hsl(2, 72%, 21%) !default;
+$core-colors-madame-beige-100: hsl(30, 38%, 94%) !default;
+$core-colors-gala-blue-50: hsl(213, 85%, 95%) !default;
+$core-colors-gala-blue-100: hsl(214, 88%, 84%) !default;
+$core-colors-gala-blue-200: hsl(214, 88%, 77%) !default;
+$core-colors-gala-blue-300: hsl(214, 87%, 66%) !default;
+$core-colors-gala-blue-400: hsl(214, 87%, 59%) !default;
+$core-colors-gala-blue-500: hsl(214, 90%, 49%) !default;
+$core-colors-gala-blue-600: hsl(213, 71%, 43%) !default;
+$core-colors-gala-blue-700: hsl(212, 72%, 39%) !default;
+$core-colors-gala-blue-800: hsl(213, 71%, 30%) !default;
+$core-colors-gala-blue-900: hsl(212, 63%, 23%) !default;
+$core-colors-gala-green-50: hsl(153, 26%, 93%) !default;
+$core-colors-gala-green-100: hsl(153, 28%, 79%) !default;
+$core-colors-gala-green-200: hsl(152, 28%, 68%) !default;
+$core-colors-gala-green-300: hsl(152, 29%, 54%) !default;
+$core-colors-gala-green-400: hsl(153, 34%, 45%) !default;
+$core-colors-gala-green-500: hsl(153, 62%, 31%) !default;
+$core-colors-gala-green-600: hsl(153, 63%, 28%) !default;
+$core-colors-gala-green-700: hsl(153, 63%, 22%) !default;
+$core-colors-gala-green-800: hsl(152, 61%, 17%) !default;
+$core-colors-gala-green-900: hsl(152, 61%, 13%) !default;
+$core-colors-gala-yellow-50: hsl(42, 100%, 95%) !default;
+$core-colors-gala-yellow-100: hsl(43, 100%, 89%) !default;
+$core-colors-gala-yellow-200: hsl(43, 100%, 83%) !default;
+$core-colors-gala-yellow-300: hsl(43, 100%, 76%) !default;
+$core-colors-gala-yellow-400: hsl(43, 100%, 71%) !default;
+$core-colors-gala-yellow-500: hsl(43, 100%, 64%) !default;
+$core-colors-gala-yellow-600: hsl(43, 83%, 55%) !default;
+$core-colors-gala-yellow-700: hsl(43, 68%, 51%) !default;
+$core-colors-gala-yellow-800: hsl(43, 67%, 39%) !default;
+$core-colors-gala-yellow-900: hsl(43, 67%, 31%) !default;
+$core-colors-gala-grey-50: hsl(0, 0%, 95%) !default;
+$core-colors-gala-grey-100: hsl(0, 0%, 85%) !default;
+$core-colors-gala-grey-200: hsl(0, 0%, 80%) !default;
+$core-colors-gala-grey-300: hsl(0, 0%, 65%) !default;
+$core-colors-gala-grey-400: hsl(0, 0%, 55%) !default;
+$core-colors-gala-grey-500: hsl(0, 0%, 45%) !default;
+$core-colors-gala-grey-600: hsl(0, 0%, 34%) !default;
+$core-colors-gala-grey-700: hsl(0, 0%, 25%) !default;
+$core-colors-gala-grey-800: hsl(0, 0%, 20%) !default;
+$core-colors-gala-grey-900: hsl(0, 0%, 7%) !default;
+$core-colors-gala-grey-white: hsl(0, 0%, 100%) !default;
+$core-colors-gala-grey-black: hsl(0, 0%, 0%) !default;
+$core-colors-gala-red-50: hsl(356, 100%, 97%) !default;
+$core-colors-gala-red-100: hsl(1, 72%, 85%) !default;
+$core-colors-gala-red-200: hsl(1, 71%, 77%) !default;
+$core-colors-gala-red-300: hsl(1, 71%, 66%) !default;
+$core-colors-gala-red-400: hsl(1, 71%, 60%) !default;
+$core-colors-gala-red-500: hsl(351, 93%, 47%) !default;
+$core-colors-gala-red-600: hsl(1, 71%, 45%) !default;
+$core-colors-gala-red-700: hsl(1, 71%, 35%) !default;
+$core-colors-gala-red-800: hsl(1, 71%, 27%) !default;
+$core-colors-gala-red-900: hsl(2, 72%, 21%) !default;
+$core-colors-gala-beige-100: hsl(30, 38%, 94%) !default;
+$core-fonts-large-font-family-primary: Noto Serif !default;
+$core-fonts-large-font-family-secondary: Source Sans Pro !default;
+$core-fonts-large-font-size-size-3: 1.5rem !default;
+$core-fonts-large-font-size-size-4: 1.25rem !default;
+$core-fonts-large-font-size-size-5: 1.125rem !default;
+$core-fonts-large-font-size-size-6: 1rem !default;
+$core-fonts-large-font-size-size-7: 0.875rem !default;
+$core-fonts-large-font-size-size-8: 0.75rem !default;
+$core-fonts-large-font-size-size-1: 2.3125rem !default;
+$core-fonts-large-font-size-size-2: 1.75rem !default;
+$core-fonts-large-font-size-size-9: 0.625rem !default;
+$core-fonts-large-line-height-height-1: 3rem !default;
+$core-fonts-large-line-height-height-2: 2.375rem !default;
+$core-fonts-large-line-height-height-4: 1.75rem !default;
+$core-fonts-large-line-height-height-5: 1.5rem !default;
+$core-fonts-large-line-height-height-6: 1.375rem !default;
+$core-fonts-large-line-height-height-3: 2rem !default;
+$core-fonts-large-line-height-height-7: 1.25rem !default;
+$core-fonts-large-line-height-height-8: 1rem !default;
+$core-fonts-large-line-height-height-9: 0.875rem !default;
+$core-fonts-large-font-weight-bold-700: Bold !default;
+$core-fonts-large-font-weight-semibold-600: SemiBold !default;
+$core-fonts-large-font-weight-regular-400: Regular !default;
+$core-fonts-large-font-weight-regular-500: Regular !default;
+$core-fonts-large-font-weight-italic-400: Italic !default;
+$core-fonts-normal-font-family-primary: Noto Serif !default;
+$core-fonts-normal-font-family-secondary: Source Sans Pro !default;
+$core-fonts-normal-font-size-size-3: 1.5rem !default;
+$core-fonts-normal-font-size-size-4: 1.25rem !default;
+$core-fonts-normal-font-size-size-5: 1.125rem !default;
+$core-fonts-normal-font-size-size-6: 1rem !default;
+$core-fonts-normal-font-size-size-7: 0.875rem !default;
+$core-fonts-normal-font-size-size-8: 0.75rem !default;
+$core-fonts-normal-font-size-size-1: 2.3125rem !default;
+$core-fonts-normal-font-size-size-2: 1.75rem !default;
+$core-fonts-normal-font-size-size-9: 0.625rem !default;
+$core-fonts-normal-line-height-height-1: 3rem !default;
+$core-fonts-normal-line-height-height-2: 2.375rem !default;
+$core-fonts-normal-line-height-height-4: 1.75rem !default;
+$core-fonts-normal-line-height-height-5: 1.5rem !default;
+$core-fonts-normal-line-height-height-6: 1.375rem !default;
+$core-fonts-normal-line-height-height-3: 2rem !default;
+$core-fonts-normal-line-height-height-7: 1.25rem !default;
+$core-fonts-normal-line-height-height-8: 1rem !default;
+$core-fonts-normal-line-height-height-9: 0.875rem !default;
+$core-fonts-normal-font-weight-bold-700: Bold !default;
+$core-fonts-normal-font-weight-semibold-600: SemiBold !default;
+$core-fonts-normal-font-weight-regular-400: Regular !default;
+$core-fonts-normal-font-weight-regular-500: Regular !default;
+$core-fonts-normal-font-weight-italic-400: Italic !default;
+$core-fonts-small-font-family-primary: Noto Serif !default;
+$core-fonts-small-font-family-secondary: Source Sans Pro !default;
+$core-fonts-small-font-size-size-3: 1.5rem !default;
+$core-fonts-small-font-size-size-4: 1.25rem !default;
+$core-fonts-small-font-size-size-5: 1.125rem !default;
+$core-fonts-small-font-size-size-6: 1rem !default;
+$core-fonts-small-font-size-size-7: 0.875rem !default;
+$core-fonts-small-font-size-size-8: 0.75rem !default;
+$core-fonts-small-font-size-size-1: 2.3125rem !default;
+$core-fonts-small-font-size-size-2: 1.75rem !default;
+$core-fonts-small-font-size-size-9: 0.625rem !default;
+$core-fonts-small-line-height-height-1: 3rem !default;
+$core-fonts-small-line-height-height-2: 2.375rem !default;
+$core-fonts-small-line-height-height-4: 1.75rem !default;
+$core-fonts-small-line-height-height-5: 1.5rem !default;
+$core-fonts-small-line-height-height-6: 1.375rem !default;
+$core-fonts-small-line-height-height-3: 2rem !default;
+$core-fonts-small-line-height-height-7: 1.25rem !default;
+$core-fonts-small-line-height-height-8: 1rem !default;
+$core-fonts-small-line-height-height-9: 0.875rem !default;
+$core-fonts-small-font-weight-bold-700: Bold !default;
+$core-fonts-small-font-weight-semibold-600: SemiBold !default;
+$core-fonts-small-font-weight-regular-400: Regular !default;
+$core-fonts-small-font-weight-regular-500: Regular !default;
+$core-fonts-small-font-weight-italic-400: Italic !default;
+$core-fonts-x-small-font-family-primary: Noto Serif !default;
+$core-fonts-x-small-font-family-secondary: Source Sans Pro !default;
+$core-fonts-x-small-font-size-size-3: 1.5rem !default;
+$core-fonts-x-small-font-size-size-4: 1.25rem !default;
+$core-fonts-x-small-font-size-size-5: 1.125rem !default;
+$core-fonts-x-small-font-size-size-6: 1rem !default;
+$core-fonts-x-small-font-size-size-7: 0.875rem !default;
+$core-fonts-x-small-font-size-size-8: 0.75rem !default;
+$core-fonts-x-small-font-size-size-1: 2.3125rem !default;
+$core-fonts-x-small-font-size-size-2: 1.75rem !default;
+$core-fonts-x-small-font-size-size-9: 0.625rem !default;
+$core-fonts-x-small-line-height-height-1: 3rem !default;
+$core-fonts-x-small-line-height-height-2: 2.375rem !default;
+$core-fonts-x-small-line-height-height-4: 1.75rem !default;
+$core-fonts-x-small-line-height-height-5: 1.5rem !default;
+$core-fonts-x-small-line-height-height-6: 1.375rem !default;
+$core-fonts-x-small-line-height-height-3: 2rem !default;
+$core-fonts-x-small-line-height-height-7: 1.25rem !default;
+$core-fonts-x-small-line-height-height-8: 1rem !default;
+$core-fonts-x-small-line-height-height-9: 0.875rem !default;
+$core-fonts-x-small-font-weight-bold-700: Bold !default;
+$core-fonts-x-small-font-weight-semibold-600: SemiBold !default;
+$core-fonts-x-small-font-weight-regular-400: Regular !default;
+$core-fonts-x-small-font-weight-regular-500: Regular !default;
+$core-fonts-x-small-font-weight-italic-400: Italic !default;
+$text-styles-variables-large-heading-1-font-size: 2.3125rem !default;
+$text-styles-variables-large-heading-1-line-height: 3rem !default;
+$text-styles-variables-large-heading-2-font-size: 1.75rem !default;
+$text-styles-variables-large-heading-2-line-height: 2.375rem !default;
+$text-styles-variables-large-heading-3-font-size: 1.5rem !default;
+$text-styles-variables-large-heading-3-line-height: 2rem !default;
+$text-styles-variables-large-heading-4-font-size: 1.25rem !default;
+$text-styles-variables-large-heading-4-line-height: 1.75rem !default;
+$text-styles-variables-large-heading-5-font-size: 1rem !default;
+$text-styles-variables-large-heading-5-line-height: 1.375rem !default;
+$text-styles-variables-large-heading-6-font-size: 1.125rem !default;
+$text-styles-variables-large-heading-6-line-height: 1.5rem !default;
+$text-styles-variables-large-standfirst-1-font-size: 1.25rem !default;
+$text-styles-variables-large-standfirst-1-line-height: 1.75rem !default;
+$text-styles-variables-large-standfirst-2-font-size: 1.5rem !default;
+$text-styles-variables-large-standfirst-2-line-height: 2rem !default;
+$text-styles-variables-large-standfirst-3-font-size: 1.25rem !default;
+$text-styles-variables-large-standfirst-3-line-height: 1.75rem !default;
+$text-styles-variables-large-standfirst-4-font-size: 1rem !default;
+$text-styles-variables-large-standfirst-4-line-height: 1.375rem !default;
+$text-styles-variables-large-standfirst-5-font-size: 0.875rem !default;
+$text-styles-variables-large-standfirst-5-line-height: 1.25rem !default;
+$text-styles-variables-large-body-font-size: 1.125rem !default;
+$text-styles-variables-large-body-line-height: 1.75rem !default;
+$text-styles-variables-large-title-1-font-size: 1.75rem !default;
+$text-styles-variables-large-title-1-line-height: 2.375rem !default;
+$text-styles-variables-large-title-2-font-size: 1.5rem !default;
+$text-styles-variables-large-title-2-line-height: 2.375rem !default;
+$text-styles-variables-large-title-3-font-size: 1.25rem !default;
+$text-styles-variables-large-title-3-line-height: 1.75rem !default;
+$text-styles-variables-large-caption-1-font-size: 1rem !default;
+$text-styles-variables-large-caption-1-line-height: 1.375rem !default;
+$text-styles-variables-large-caption-2-font-size: 0.875rem !default;
+$text-styles-variables-large-caption-2-line-height: 1.25rem !default;
+$text-styles-variables-large-caption-3-font-size: 0.75rem !default;
+$text-styles-variables-large-caption-3-line-height: 1rem !default;
+$text-styles-variables-large-link-1-font-size: 1rem !default;
+$text-styles-variables-large-link-1-line-height: 1.375rem !default;
+$text-styles-variables-large-link-3-font-size: 0.875rem !default;
+$text-styles-variables-large-link-3-line-height: 1.25rem !default;
+$text-styles-variables-large-button-font-size: 0.875rem !default;
+$text-styles-variables-large-button-line-height: 1.25rem !default;
+$text-styles-variables-large-credit-font-size: 0.875rem !default;
+$text-styles-variables-large-credit-line-height: 1.25rem !default;
+$text-styles-variables-large-title-5-font-size: 0.875rem !default;
+$text-styles-variables-large-title-5-line-height: 1.25rem !default;
+$text-styles-variables-large-title-4-font-size: 1rem !default;
+$text-styles-variables-large-title-4-line-height: 1.375rem !default;
+$text-styles-variables-large-link-2-font-size: 1rem !default;
+$text-styles-variables-large-link-2-line-height: 1.375rem !default;
+$text-styles-variables-large-quote-font-size: 1.75rem !default;
+$text-styles-variables-large-quote-line-height: 2.375rem !default;
+$text-styles-variables-normal-heading-1-font-size: 1.75rem !default;
+$text-styles-variables-normal-heading-1-line-height: 2.375rem !default;
+$text-styles-variables-normal-heading-2-font-size: 1.75rem !default;
+$text-styles-variables-normal-heading-2-line-height: 2.375rem !default;
+$text-styles-variables-normal-heading-3-font-size: 1.5rem !default;
+$text-styles-variables-normal-heading-3-line-height: 2rem !default;
+$text-styles-variables-normal-heading-4-font-size: 1.25rem !default;
+$text-styles-variables-normal-heading-4-line-height: 1.75rem !default;
+$text-styles-variables-normal-heading-5-font-size: 1rem !default;
+$text-styles-variables-normal-heading-5-line-height: 1.375rem !default;
+$text-styles-variables-normal-heading-6-font-size: 1rem !default;
+$text-styles-variables-normal-heading-6-line-height: 1.375rem !default;
+$text-styles-variables-normal-standfirst-1-font-size: 1.25rem !default;
+$text-styles-variables-normal-standfirst-1-line-height: 1.75rem !default;
+$text-styles-variables-normal-standfirst-2-font-size: 1.125rem !default;
+$text-styles-variables-normal-standfirst-2-line-height: 1.5rem !default;
+$text-styles-variables-normal-standfirst-3-font-size: 1.125rem !default;
+$text-styles-variables-normal-standfirst-3-line-height: 1.5rem !default;
+$text-styles-variables-normal-standfirst-4-font-size: 1rem !default;
+$text-styles-variables-normal-standfirst-4-line-height: 1.375rem !default;
+$text-styles-variables-normal-standfirst-5-font-size: 0.875rem !default;
+$text-styles-variables-normal-standfirst-5-line-height: 1.25rem !default;
+$text-styles-variables-normal-body-font-size: 1.125rem !default;
+$text-styles-variables-normal-body-line-height: 1.75rem !default;
+$text-styles-variables-normal-title-1-font-size: 1.75rem !default;
+$text-styles-variables-normal-title-1-line-height: 2.375rem !default;
+$text-styles-variables-normal-title-2-font-size: 1.25rem !default;
+$text-styles-variables-normal-title-2-line-height: 1.75rem !default;
+$text-styles-variables-normal-title-3-font-size: 1.25rem !default;
+$text-styles-variables-normal-title-3-line-height: 1.75rem !default;
+$text-styles-variables-normal-caption-1-font-size: 1rem !default;
+$text-styles-variables-normal-caption-1-line-height: 1.375rem !default;
+$text-styles-variables-normal-caption-2-font-size: 0.875rem !default;
+$text-styles-variables-normal-caption-2-line-height: 1.25rem !default;
+$text-styles-variables-normal-caption-3-font-size: 0.75rem !default;
+$text-styles-variables-normal-caption-3-line-height: 1rem !default;
+$text-styles-variables-normal-link-1-font-size: 1rem !default;
+$text-styles-variables-normal-link-1-line-height: 1.375rem !default;
+$text-styles-variables-normal-link-3-font-size: 0.875rem !default;
+$text-styles-variables-normal-link-3-line-height: 1.25rem !default;
+$text-styles-variables-normal-button-font-size: 0.875rem !default;
+$text-styles-variables-normal-button-line-height: 1.25rem !default;
+$text-styles-variables-normal-credit-font-size: 0.875rem !default;
+$text-styles-variables-normal-credit-line-height: 1.25rem !default;
+$text-styles-variables-normal-title-5-font-size: 0.875rem !default;
+$text-styles-variables-normal-title-5-line-height: 1.25rem !default;
+$text-styles-variables-normal-title-4-font-size: 1rem !default;
+$text-styles-variables-normal-title-4-line-height: 1.375rem !default;
+$text-styles-variables-normal-link-2-font-size: 1rem !default;
+$text-styles-variables-normal-link-2-line-height: 1.25rem !default;
+$text-styles-variables-normal-quote-font-size: 1.75rem !default;
+$text-styles-variables-normal-quote-line-height: 2.375rem !default;
+$text-styles-variables-small-heading-1-font-size: 1.5rem !default;
+$text-styles-variables-small-heading-1-line-height: 2rem !default;
+$text-styles-variables-small-heading-2-font-size: 1.75rem !default;
+$text-styles-variables-small-heading-2-line-height: 2.375rem !default;
+$text-styles-variables-small-heading-3-font-size: 1.5rem !default;
+$text-styles-variables-small-heading-3-line-height: 2rem !default;
+$text-styles-variables-small-heading-4-font-size: 1.25rem !default;
+$text-styles-variables-small-heading-4-line-height: 1.75rem !default;
+$text-styles-variables-small-heading-5-font-size: 1rem !default;
+$text-styles-variables-small-heading-5-line-height: 1.375rem !default;
+$text-styles-variables-small-heading-6-font-size: 1rem !default;
+$text-styles-variables-small-heading-6-line-height: 1.375rem !default;
+$text-styles-variables-small-standfirst-1-font-size: 1.25rem !default;
+$text-styles-variables-small-standfirst-1-line-height: 1.75rem !default;
+$text-styles-variables-small-standfirst-2-font-size: 1rem !default;
+$text-styles-variables-small-standfirst-2-line-height: 1.375rem !default;
+$text-styles-variables-small-standfirst-3-font-size: 1rem !default;
+$text-styles-variables-small-standfirst-3-line-height: 1.375rem !default;
+$text-styles-variables-small-standfirst-4-font-size: 1rem !default;
+$text-styles-variables-small-standfirst-4-line-height: 1.375rem !default;
+$text-styles-variables-small-standfirst-5-font-size: 0.875rem !default;
+$text-styles-variables-small-standfirst-5-line-height: 1.25rem !default;
+$text-styles-variables-small-body-font-size: 1.125rem !default;
+$text-styles-variables-small-body-line-height: 1.75rem !default;
+$text-styles-variables-small-title-1-font-size: 1.75rem !default;
+$text-styles-variables-small-title-1-line-height: 2.375rem !default;
+$text-styles-variables-small-title-2-font-size: 1.5rem !default;
+$text-styles-variables-small-title-2-line-height: 2.375rem !default;
+$text-styles-variables-small-title-3-font-size: 1.25rem !default;
+$text-styles-variables-small-title-3-line-height: 1.75rem !default;
+$text-styles-variables-small-caption-1-font-size: 1rem !default;
+$text-styles-variables-small-caption-1-line-height: 1.375rem !default;
+$text-styles-variables-small-caption-2-font-size: 0.875rem !default;
+$text-styles-variables-small-caption-2-line-height: 1.25rem !default;
+$text-styles-variables-small-caption-3-font-size: 0.75rem !default;
+$text-styles-variables-small-caption-3-line-height: 1rem !default;
+$text-styles-variables-small-link-1-font-size: 1rem !default;
+$text-styles-variables-small-link-1-line-height: 1.375rem !default;
+$text-styles-variables-small-link-3-font-size: 0.875rem !default;
+$text-styles-variables-small-link-3-line-height: 1.25rem !default;
+$text-styles-variables-small-button-font-size: 0.875rem !default;
+$text-styles-variables-small-button-line-height: 1.25rem !default;
+$text-styles-variables-small-credit-font-size: 0.875rem !default;
+$text-styles-variables-small-credit-line-height: 1.25rem !default;
+$text-styles-variables-small-title-5-font-size: 0.875rem !default;
+$text-styles-variables-small-title-5-line-height: 1.25rem !default;
+$text-styles-variables-small-title-4-font-size: 1rem !default;
+$text-styles-variables-small-title-4-line-height: 1.375rem !default;
+$text-styles-variables-small-link-2-font-size: 1rem !default;
+$text-styles-variables-small-link-2-line-height: 1.375rem !default;
+$text-styles-variables-small-quote-font-size: 1.75rem !default;
+$text-styles-variables-small-quote-line-height: 2.375rem !default;
+$text-styles-variables-x-small-heading-1-font-size: 1.25rem !default;
+$text-styles-variables-x-small-heading-1-line-height: 1.75rem !default;
+$text-styles-variables-x-small-heading-2-font-size: 1.75rem !default;
+$text-styles-variables-x-small-heading-2-line-height: 2.375rem !default;
+$text-styles-variables-x-small-heading-3-font-size: 1.5rem !default;
+$text-styles-variables-x-small-heading-3-line-height: 2rem !default;
+$text-styles-variables-x-small-heading-4-font-size: 1rem !default;
+$text-styles-variables-x-small-heading-4-line-height: 1.375rem !default;
+$text-styles-variables-x-small-heading-5-font-size: 1rem !default;
+$text-styles-variables-x-small-heading-5-line-height: 1.375rem !default;
+$text-styles-variables-x-small-heading-6-font-size: 0.875rem !default;
+$text-styles-variables-x-small-heading-6-line-height: 1.25rem !default;
+$text-styles-variables-x-small-standfirst-1-font-size: 1.25rem !default;
+$text-styles-variables-x-small-standfirst-1-line-height: 1.75rem !default;
+$text-styles-variables-x-small-standfirst-2-font-size: 1rem !default;
+$text-styles-variables-x-small-standfirst-2-line-height: 1.375rem !default;
+$text-styles-variables-x-small-standfirst-3-font-size: 1rem !default;
+$text-styles-variables-x-small-standfirst-3-line-height: 1.375rem !default;
+$text-styles-variables-x-small-standfirst-4-font-size: 0.875rem !default;
+$text-styles-variables-x-small-standfirst-4-line-height: 1.25rem !default;
+$text-styles-variables-x-small-standfirst-5-font-size: 0.875rem !default;
+$text-styles-variables-x-small-standfirst-5-line-height: 1.25rem !default;
+$text-styles-variables-x-small-body-font-size: 1.125rem !default;
+$text-styles-variables-x-small-body-line-height: 1.75rem !default;
+$text-styles-variables-x-small-title-1-font-size: 1.25rem !default;
+$text-styles-variables-x-small-title-1-line-height: 1.75rem !default;
+$text-styles-variables-x-small-title-2-font-size: 1.25rem !default;
+$text-styles-variables-x-small-title-2-line-height: 1.75rem !default;
+$text-styles-variables-x-small-title-3-font-size: 1.25rem !default;
+$text-styles-variables-x-small-title-3-line-height: 1.75rem !default;
+$text-styles-variables-x-small-caption-1-font-size: 1rem !default;
+$text-styles-variables-x-small-caption-1-line-height: 1.375rem !default;
+$text-styles-variables-x-small-caption-2-font-size: 0.875rem !default;
+$text-styles-variables-x-small-caption-2-line-height: 1.25rem !default;
+$text-styles-variables-x-small-caption-3-font-size: 0.75rem !default;
+$text-styles-variables-x-small-caption-3-line-height: 1rem !default;
+$text-styles-variables-x-small-link-1-font-size: 1rem !default;
+$text-styles-variables-x-small-link-1-line-height: 1.375rem !default;
+$text-styles-variables-x-small-link-3-font-size: 0.875rem !default;
+$text-styles-variables-x-small-link-3-line-height: 1.25rem !default;
+$text-styles-variables-x-small-button-font-size: 0.875rem !default;
+$text-styles-variables-x-small-button-line-height: 1.25rem !default;
+$text-styles-variables-x-small-credit-font-size: 0.875rem !default;
+$text-styles-variables-x-small-credit-line-height: 1.25rem !default;
+$text-styles-variables-x-small-title-5-font-size: 0.875rem !default;
+$text-styles-variables-x-small-title-5-line-height: 1.25rem !default;
+$text-styles-variables-x-small-title-4-font-size: 1rem !default;
+$text-styles-variables-x-small-title-4-line-height: 1.375rem !default;
+$text-styles-variables-x-small-link-2-font-size: 1rem !default;
+$text-styles-variables-x-small-link-2-line-height: 1.375rem !default;
+$text-styles-variables-x-small-quote-font-size: 1.5rem !default;
+$text-styles-variables-x-small-quote-line-height: 2rem !default;
+$typography-heading-1-font-size: 2.3125rem !default;
+$typography-heading-1-text-decoration: none !default;
+$typography-heading-1-font-family: Noto Serif !default;
+$typography-heading-1-font-weight: 700 !default;
+$typography-heading-1-font-style: normal !default;
+$typography-heading-1-font-stretch: normal !default;
+$typography-heading-1-letter-spacing: 0 !default;
+$typography-heading-1-line-height: 3rem !default;
+$typography-heading-1-paragraph-indent: 0 !default;
+$typography-heading-1-paragraph-spacing: 0 !default;
+$typography-heading-1-text-case: none !default;
+$typography-heading-2-font-size: 1.75rem !default;
+$typography-heading-2-text-decoration: none !default;
+$typography-heading-2-font-family: Noto Serif !default;
+$typography-heading-2-font-weight: 700 !default;
+$typography-heading-2-font-style: normal !default;
+$typography-heading-2-font-stretch: normal !default;
+$typography-heading-2-letter-spacing: 0 !default;
+$typography-heading-2-line-height: 2.375rem !default;
+$typography-heading-2-paragraph-indent: 0 !default;
+$typography-heading-2-paragraph-spacing: 0 !default;
+$typography-heading-2-text-case: none !default;
+$typography-heading-3-font-size: 1.5rem !default;
+$typography-heading-3-text-decoration: none !default;
+$typography-heading-3-font-family: Noto Serif !default;
+$typography-heading-3-font-weight: 700 !default;
+$typography-heading-3-font-style: normal !default;
+$typography-heading-3-font-stretch: normal !default;
+$typography-heading-3-letter-spacing: 0 !default;
+$typography-heading-3-line-height: 2rem !default;
+$typography-heading-3-paragraph-indent: 0 !default;
+$typography-heading-3-paragraph-spacing: 0 !default;
+$typography-heading-3-text-case: none !default;
+$typography-heading-4-font-size: 1.25rem !default;
+$typography-heading-4-text-decoration: none !default;
+$typography-heading-4-font-family: Noto Serif !default;
+$typography-heading-4-font-weight: 700 !default;
+$typography-heading-4-font-style: normal !default;
+$typography-heading-4-font-stretch: normal !default;
+$typography-heading-4-letter-spacing: 0 !default;
+$typography-heading-4-line-height: 1.75rem !default;
+$typography-heading-4-paragraph-indent: 0 !default;
+$typography-heading-4-paragraph-spacing: 0 !default;
+$typography-heading-4-text-case: none !default;
+$typography-heading-5-font-size: 1rem !default;
+$typography-heading-5-text-decoration: none !default;
+$typography-heading-5-font-family: Noto Serif !default;
+$typography-heading-5-font-weight: 700 !default;
+$typography-heading-5-font-style: normal !default;
+$typography-heading-5-font-stretch: normal !default;
+$typography-heading-5-letter-spacing: 0 !default;
+$typography-heading-5-line-height: 1.375rem !default;
+$typography-heading-5-paragraph-indent: 0 !default;
+$typography-heading-5-paragraph-spacing: 0 !default;
+$typography-heading-5-text-case: none !default;
+$typography-heading-6-font-size: 1.125rem !default;
+$typography-heading-6-text-decoration: none !default;
+$typography-heading-6-font-family: Noto Serif !default;
+$typography-heading-6-font-weight: 700 !default;
+$typography-heading-6-font-style: normal !default;
+$typography-heading-6-font-stretch: normal !default;
+$typography-heading-6-letter-spacing: 0 !default;
+$typography-heading-6-line-height: 1.5rem !default;
+$typography-heading-6-paragraph-indent: 0 !default;
+$typography-heading-6-paragraph-spacing: 0 !default;
+$typography-heading-6-text-case: none !default;
+$typography-standfirst-1-font-size: 1.25rem !default;
+$typography-standfirst-1-text-decoration: none !default;
+$typography-standfirst-1-font-family: Noto Serif !default;
+$typography-standfirst-1-font-weight: 700 !default;
+$typography-standfirst-1-font-style: normal !default;
+$typography-standfirst-1-font-stretch: normal !default;
+$typography-standfirst-1-letter-spacing: 0 !default;
+$typography-standfirst-1-line-height: 1.75rem !default;
+$typography-standfirst-1-paragraph-indent: 0 !default;
+$typography-standfirst-1-paragraph-spacing: 0 !default;
+$typography-standfirst-1-text-case: none !default;
+$typography-standfirst-2-font-size: 1.5rem !default;
+$typography-standfirst-2-text-decoration: none !default;
+$typography-standfirst-2-font-family: Noto Serif !default;
+$typography-standfirst-2-font-weight: 700 !default;
+$typography-standfirst-2-font-style: normal !default;
+$typography-standfirst-2-font-stretch: normal !default;
+$typography-standfirst-2-letter-spacing: 0 !default;
+$typography-standfirst-2-line-height: 2rem !default;
+$typography-standfirst-2-paragraph-indent: 0 !default;
+$typography-standfirst-2-paragraph-spacing: 0 !default;
+$typography-standfirst-2-text-case: none !default;
+$typography-standfirst-3-font-size: 1.25rem !default;
+$typography-standfirst-3-text-decoration: none !default;
+$typography-standfirst-3-font-family: Source Sans Pro !default;
+$typography-standfirst-3-font-weight: 400 !default;
+$typography-standfirst-3-font-style: normal !default;
+$typography-standfirst-3-font-stretch: normal !default;
+$typography-standfirst-3-letter-spacing: 0 !default;
+$typography-standfirst-3-line-height: 1.75rem !default;
+$typography-standfirst-3-paragraph-indent: 0 !default;
+$typography-standfirst-3-paragraph-spacing: 0 !default;
+$typography-standfirst-3-text-case: none !default;
+$typography-standfirst-4-font-size: 1rem !default;
+$typography-standfirst-4-text-decoration: none !default;
+$typography-standfirst-4-font-family: Noto Serif !default;
+$typography-standfirst-4-font-weight: 400 !default;
+$typography-standfirst-4-font-style: normal !default;
+$typography-standfirst-4-font-stretch: normal !default;
+$typography-standfirst-4-letter-spacing: 0 !default;
+$typography-standfirst-4-line-height: 1.375rem !default;
+$typography-standfirst-4-paragraph-indent: 0 !default;
+$typography-standfirst-4-paragraph-spacing: 0 !default;
+$typography-standfirst-4-text-case: none !default;
+$typography-standfirst-5-font-size: 0.875rem !default;
+$typography-standfirst-5-text-decoration: none !default;
+$typography-standfirst-5-font-family: Noto Serif !default;
+$typography-standfirst-5-font-weight: 400 !default;
+$typography-standfirst-5-font-style: normal !default;
+$typography-standfirst-5-font-stretch: normal !default;
+$typography-standfirst-5-letter-spacing: 0 !default;
+$typography-standfirst-5-line-height: 1.25rem !default;
+$typography-standfirst-5-paragraph-indent: 0 !default;
+$typography-standfirst-5-paragraph-spacing: 0 !default;
+$typography-standfirst-5-text-case: none !default;
+$typography-body-font-size: 1.125rem !default;
+$typography-body-text-decoration: none !default;
+$typography-body-font-family: Noto Serif !default;
+$typography-body-font-weight: 400 !default;
+$typography-body-font-style: normal !default;
+$typography-body-font-stretch: normal !default;
+$typography-body-letter-spacing: 0 !default;
+$typography-body-line-height: 1.75rem !default;
+$typography-body-paragraph-indent: 0 !default;
+$typography-body-paragraph-spacing: 0 !default;
+$typography-body-text-case: none !default;
+$typography-quote-font-size: 1.75rem !default;
+$typography-quote-text-decoration: none !default;
+$typography-quote-font-family: Noto Serif !default;
+$typography-quote-font-weight: 700 !default;
+$typography-quote-font-style: normal !default;
+$typography-quote-font-stretch: normal !default;
+$typography-quote-letter-spacing: 0 !default;
+$typography-quote-line-height: 2.375rem !default;
+$typography-quote-paragraph-indent: 0 !default;
+$typography-quote-paragraph-spacing: 0 !default;
+$typography-quote-text-case: none !default;
+$typography-title-1-font-size: 1.75rem !default;
+$typography-title-1-text-decoration: none !default;
+$typography-title-1-font-family: Source Sans Pro !default;
+$typography-title-1-font-weight: 400 !default;
+$typography-title-1-font-style: normal !default;
+$typography-title-1-font-stretch: normal !default;
+$typography-title-1-letter-spacing: 0 !default;
+$typography-title-1-line-height: 2.375rem !default;
+$typography-title-1-paragraph-indent: 0 !default;
+$typography-title-1-paragraph-spacing: 0 !default;
+$typography-title-1-text-case: none !default;
+$typography-title-2-font-size: 1.5rem !default;
+$typography-title-2-text-decoration: none !default;
+$typography-title-2-font-family: Source Sans Pro !default;
+$typography-title-2-font-weight: 400 !default;
+$typography-title-2-font-style: normal !default;
+$typography-title-2-font-stretch: normal !default;
+$typography-title-2-letter-spacing: 0 !default;
+$typography-title-2-line-height: 2.375rem !default;
+$typography-title-2-paragraph-indent: 0 !default;
+$typography-title-2-paragraph-spacing: 0 !default;
+$typography-title-2-text-case: none !default;
+$typography-title-3-font-size: 1.25rem !default;
+$typography-title-3-text-decoration: none !default;
+$typography-title-3-font-family: Source Sans Pro !default;
+$typography-title-3-font-weight: 400 !default;
+$typography-title-3-font-style: normal !default;
+$typography-title-3-font-stretch: normal !default;
+$typography-title-3-letter-spacing: 0 !default;
+$typography-title-3-line-height: 1.75rem !default;
+$typography-title-3-paragraph-indent: 0 !default;
+$typography-title-3-paragraph-spacing: 0 !default;
+$typography-title-3-text-case: none !default;
+$typography-title-4-font-size: 1rem !default;
+$typography-title-4-text-decoration: none !default;
+$typography-title-4-font-family: Source Sans Pro !default;
+$typography-title-4-font-weight: 600 !default;
+$typography-title-4-font-style: normal !default;
+$typography-title-4-font-stretch: normal !default;
+$typography-title-4-letter-spacing: 0 !default;
+$typography-title-4-line-height: 1.375rem !default;
+$typography-title-4-paragraph-indent: 0 !default;
+$typography-title-4-paragraph-spacing: 0 !default;
+$typography-title-4-text-case: none !default;
+$typography-title-5-font-size: 0.875rem !default;
+$typography-title-5-text-decoration: none !default;
+$typography-title-5-font-family: Source Sans Pro !default;
+$typography-title-5-font-weight: 700 !default;
+$typography-title-5-font-style: normal !default;
+$typography-title-5-font-stretch: normal !default;
+$typography-title-5-letter-spacing: 0 !default;
+$typography-title-5-line-height: 1.25rem !default;
+$typography-title-5-paragraph-indent: 0 !default;
+$typography-title-5-paragraph-spacing: 0 !default;
+$typography-title-5-text-case: uppercase !default;
+$typography-caption-1-font-size: 1rem !default;
+$typography-caption-1-text-decoration: none !default;
+$typography-caption-1-font-family: Source Sans Pro !default;
+$typography-caption-1-font-weight: 400 !default;
+$typography-caption-1-font-style: normal !default;
+$typography-caption-1-font-stretch: normal !default;
+$typography-caption-1-letter-spacing: 0 !default;
+$typography-caption-1-line-height: 1.375rem !default;
+$typography-caption-1-paragraph-indent: 0 !default;
+$typography-caption-1-paragraph-spacing: 0 !default;
+$typography-caption-1-text-case: none !default;
+$typography-caption-2-font-size: 0.875rem !default;
+$typography-caption-2-text-decoration: none !default;
+$typography-caption-2-font-family: Source Sans Pro !default;
+$typography-caption-2-font-weight: 400 !default;
+$typography-caption-2-font-style: normal !default;
+$typography-caption-2-font-stretch: normal !default;
+$typography-caption-2-letter-spacing: 0 !default;
+$typography-caption-2-line-height: 1.25rem !default;
+$typography-caption-2-paragraph-indent: 0 !default;
+$typography-caption-2-paragraph-spacing: 0 !default;
+$typography-caption-2-text-case: none !default;
+$typography-caption-3-font-size: 0.75rem !default;
+$typography-caption-3-text-decoration: none !default;
+$typography-caption-3-font-family: Source Sans Pro !default;
+$typography-caption-3-font-weight: 400 !default;
+$typography-caption-3-font-style: normal !default;
+$typography-caption-3-font-stretch: normal !default;
+$typography-caption-3-letter-spacing: 0 !default;
+$typography-caption-3-line-height: 1rem !default;
+$typography-caption-3-paragraph-indent: 0 !default;
+$typography-caption-3-paragraph-spacing: 0 !default;
+$typography-caption-3-text-case: none !default;
+$typography-link-1-font-size: 1rem !default;
+$typography-link-1-text-decoration: none !default;
+$typography-link-1-font-family: Source Sans Pro !default;
+$typography-link-1-font-weight: 600 !default;
+$typography-link-1-font-style: normal !default;
+$typography-link-1-font-stretch: normal !default;
+$typography-link-1-letter-spacing: 0 !default;
+$typography-link-1-line-height: 1.375rem !default;
+$typography-link-1-paragraph-indent: 0 !default;
+$typography-link-1-paragraph-spacing: 0 !default;
+$typography-link-1-text-case: none !default;
+$typography-link-2-font-size: 1rem !default;
+$typography-link-2-text-decoration: underline !default;
+$typography-link-2-font-family: Noto Serif !default;
+$typography-link-2-font-weight: 400 !default;
+$typography-link-2-font-style: italic !default;
+$typography-link-2-font-stretch: normal !default;
+$typography-link-2-letter-spacing: 0 !default;
+$typography-link-2-line-height: 1.375rem !default;
+$typography-link-2-paragraph-indent: 0 !default;
+$typography-link-2-paragraph-spacing: 0 !default;
+$typography-link-2-text-case: none !default;
+$typography-link-3-font-size: 0.875rem !default;
+$typography-link-3-text-decoration: underline !default;
+$typography-link-3-font-family: Source Sans Pro !default;
+$typography-link-3-font-weight: 400 !default;
+$typography-link-3-font-style: normal !default;
+$typography-link-3-font-stretch: normal !default;
+$typography-link-3-letter-spacing: 0 !default;
+$typography-link-3-line-height: 1.25rem !default;
+$typography-link-3-paragraph-indent: 0 !default;
+$typography-link-3-paragraph-spacing: 0 !default;
+$typography-link-3-text-case: none !default;
+$typography-button-font-size: 0.875rem !default;
+$typography-button-text-decoration: none !default;
+$typography-button-font-family: Source Sans Pro !default;
+$typography-button-font-weight: 600 !default;
+$typography-button-font-style: normal !default;
+$typography-button-font-stretch: normal !default;
+$typography-button-letter-spacing: 0 !default;
+$typography-button-line-height: 1.25rem !default;
+$typography-button-paragraph-indent: 0 !default;
+$typography-button-paragraph-spacing: 0 !default;
+$typography-button-text-case: uppercase !default;
+$typography-credit-font-size: 0.875rem !default;
+$typography-credit-text-decoration: none !default;
+$typography-credit-font-family: Source Sans Pro !default;
+$typography-credit-font-weight: 400 !default;
+$typography-credit-font-style: italic !default;
+$typography-credit-font-stretch: normal !default;
+$typography-credit-letter-spacing: 0 !default;
+$typography-credit-line-height: 1.25rem !default;
+$typography-credit-paragraph-indent: 0 !default;
+$typography-credit-paragraph-spacing: 0 !default;
+$typography-credit-text-case: none !default;
+
+$tokens: (
+  'font': (
+    'heading 1': $font-heading-1,
+    'heading 2': $font-heading-2,
+    'heading 3': $font-heading-3,
+    'heading 4': $font-heading-4,
+    'heading 5': $font-heading-5,
+    'heading 6': $font-heading-6,
+    'standfirst 1': $font-standfirst-1,
+    'standfirst 2': $font-standfirst-2,
+    'standfirst 3': $font-standfirst-3,
+    'standfirst 4': $font-standfirst-4,
+    'standfirst 5': $font-standfirst-5,
+    'body': $font-body,
+    'quote': $font-quote,
+    'title 1': $font-title-1,
+    'title 2': $font-title-2,
+    'title 3': $font-title-3,
+    'title 4': $font-title-4,
+    'title 5': $font-title-5,
+    'caption 1': $font-caption-1,
+    'caption 2': $font-caption-2,
+    'caption 3': $font-caption-3,
+    'link 1': $font-link-1,
+    'link 2': $font-link-2,
+    'link 3': $font-link-3,
+    'button': $font-button,
+    'credit': $font-credit
+  ),
+  'size': (
+    'size-7': $size-size-7,
+    'size-3': $size-size-3,
+    'size-5': $size-size-5,
+    'size-6': $size-size-6,
+    'size-4': $size-size-4,
+    'size-1': $size-size-1,
+    'size-1,5': $size-size-1-5,
+    'size-8': $size-size-8,
+    'size-0,5': $size-size-0-5,
+    'size-10': $size-size-10,
+    'size-2': $size-size-2,
+    'size-9': $size-size-9,
+    'size-0,25': $size-size-0-25,
+    'border': (
+      'size-border-default': $size-border-size-border-default
+    )
+  ),
+  'colors': (
+    'figaro': (
+      'semantic': (
+        'background': (
+          'color-bg-primary': $colors-figaro-semantic-background-color-bg-primary,
+          'color-bg-secondary': $colors-figaro-semantic-background-color-bg-secondary,
+          'color-bg-ads': $colors-figaro-semantic-background-color-bg-ads,
+          'color-bg-tertiary': $colors-figaro-semantic-background-color-bg-tertiary,
+          'color-bg-highlight': $colors-figaro-semantic-background-color-bg-highlight,
+          'color-bg-subscribe-soft': $colors-figaro-semantic-background-color-bg-subscribe-soft,
+          'color-bg-subscribe-bold': $colors-figaro-semantic-background-color-bg-subscribe-bold
+        ),
+        'content': (
+          'color-content-primary': $colors-figaro-semantic-content-color-content-primary,
+          'color-content-highlight': $colors-figaro-semantic-content-color-content-highlight,
+          'color-content-secondary': $colors-figaro-semantic-content-color-content-secondary,
+          'color-content-alert': $colors-figaro-semantic-content-color-content-alert,
+          'color-content-subscribe': $colors-figaro-semantic-content-color-content-subscribe,
+          'color-content-ads-primary': $colors-figaro-semantic-content-color-content-ads-primary,
+          'color-content-ads-secondary': $colors-figaro-semantic-content-color-content-ads-secondary,
+          'color-content-on-colored-bg': $colors-figaro-semantic-content-color-content-on-colored-bg,
+          'color-content-success': $colors-figaro-semantic-content-color-content-success
+        ),
+        'border': (
+          'color-border-primary': $colors-figaro-semantic-border-color-border-primary,
+          'color-border-secondary': $colors-figaro-semantic-border-color-border-secondary
+        )
+      ),
+      'button': (
+        'primary': (
+          'color-bg-button-primary-default': $colors-figaro-button-primary-color-bg-button-primary-default,
+          'color-bg-button-primary-hover': $colors-figaro-button-primary-color-bg-button-primary-hover,
+          'color-bg-button-primary-focus': $colors-figaro-button-primary-color-bg-button-primary-focus,
+          'color-bg-button-primary-disabled': $colors-figaro-button-primary-color-bg-button-primary-disabled,
+          'color-bg-button-primary-pressed': $colors-figaro-button-primary-color-bg-button-primary-pressed
+        ),
+        'secondary': (
+          'color-bg-button-secondary-default': $colors-figaro-button-secondary-color-bg-button-secondary-default,
+          'color-bg-button-secondary-hover': $colors-figaro-button-secondary-color-bg-button-secondary-hover,
+          'color-bg-button-secondary-focus': $colors-figaro-button-secondary-color-bg-button-secondary-focus,
+          'color-bg-button-secondary-disabled': $colors-figaro-button-secondary-color-bg-button-secondary-disabled,
+          'color-bg-button-secondary-pressed': $colors-figaro-button-secondary-color-bg-button-secondary-pressed,
+          'color-border-button-secondary-default': $colors-figaro-button-secondary-color-border-button-secondary-default,
+          'color-border-button-secondary-hover': $colors-figaro-button-secondary-color-border-button-secondary-hover,
+          'color-content-button-secondary-default': $colors-figaro-button-secondary-color-content-button-secondary-default,
+          'color-content-button-secondary-hover': $colors-figaro-button-secondary-color-content-button-secondary-hover,
+          'color-border-button-secondary-focus': $colors-figaro-button-secondary-color-border-button-secondary-focus,
+          'color-border-button-secondary-disabled': $colors-figaro-button-secondary-color-border-button-secondary-disabled,
+          'color-border-button-secondary-pressed': $colors-figaro-button-secondary-color-border-button-secondary-pressed
+        ),
+        'on-colored-bg': (
+          'color-bg-button-on-colored-bg-default': $colors-figaro-button-on-colored-bg-color-bg-button-on-colored-bg-default,
+          'color-bg-button-on-colored-bg-hover': $colors-figaro-button-on-colored-bg-color-bg-button-on-colored-bg-hover,
+          'color-bg-button-on-colored-bg-focus': $colors-figaro-button-on-colored-bg-color-bg-button-on-colored-bg-focus,
+          'color-bg-button-on-colored-bg-disabled': $colors-figaro-button-on-colored-bg-color-bg-button-on-colored-bg-disabled,
+          'color-bg-button-on-colored-bg-pressed': $colors-figaro-button-on-colored-bg-color-bg-button-on-colored-bg-pressed
+        ),
+        'subscribe': (
+          'color-bg-button-subscribe-default': $colors-figaro-button-subscribe-color-bg-button-subscribe-default,
+          'color-bg-button-subscribe-hover': $colors-figaro-button-subscribe-color-bg-button-subscribe-hover,
+          'color-bg-button-subscribe-focus': $colors-figaro-button-subscribe-color-bg-button-subscribe-focus,
+          'color-bg-button-subscribe-disabled': $colors-figaro-button-subscribe-color-bg-button-subscribe-disabled,
+          'color-bg-button-subscribe-pressed': $colors-figaro-button-subscribe-color-bg-button-subscribe-pressed
+        ),
+        'accent': (
+          'color-bg-button-accent-default': $colors-figaro-button-accent-color-bg-button-accent-default,
+          'color-bg-button-accent-hover': $colors-figaro-button-accent-color-bg-button-accent-hover,
+          'color-bg-button-accent-focus': $colors-figaro-button-accent-color-bg-button-accent-focus,
+          'color-bg-button-accent-disabled': $colors-figaro-button-accent-color-bg-button-accent-disabled,
+          'color-bg-button-accent-pressed': $colors-figaro-button-accent-color-bg-button-accent-pressed
+        )
+      ),
+      'footer': (
+        'color-bg-footer': $colors-figaro-footer-color-bg-footer,
+        'color-content-footer': $colors-figaro-footer-color-content-footer
+      ),
+      'form': (
+        'color-border-elementform-default': $colors-figaro-form-color-border-elementform-default,
+        'color-border-elementform-hover': $colors-figaro-form-color-border-elementform-hover,
+        'color-border-elementform-error': $colors-figaro-form-color-border-elementform-error,
+        'color-border-elementform-focus': $colors-figaro-form-color-border-elementform-focus,
+        'color-border-elementform-disabled': $colors-figaro-form-color-border-elementform-disabled
+      )
+    ),
+    'madame': (
+      'semantic': (
+        'background': (
+          'color-bg-primary': $colors-madame-semantic-background-color-bg-primary,
+          'color-bg-secondary': $colors-madame-semantic-background-color-bg-secondary,
+          'color-bg-ads': $colors-madame-semantic-background-color-bg-ads,
+          'color-bg-tertiary': $colors-madame-semantic-background-color-bg-tertiary,
+          'color-bg-highlight': $colors-madame-semantic-background-color-bg-highlight,
+          'color-bg-subscribe-soft': $colors-madame-semantic-background-color-bg-subscribe-soft,
+          'color-bg-subscribe-bold': $colors-madame-semantic-background-color-bg-subscribe-bold
+        ),
+        'content': (
+          'color-content-primary': $colors-madame-semantic-content-color-content-primary,
+          'color-content-highlight': $colors-madame-semantic-content-color-content-highlight,
+          'color-content-secondary': $colors-madame-semantic-content-color-content-secondary,
+          'color-content-alert': $colors-madame-semantic-content-color-content-alert,
+          'color-content-subscribe': $colors-madame-semantic-content-color-content-subscribe,
+          'color-content-ads-primary': $colors-madame-semantic-content-color-content-ads-primary,
+          'color-content-ads-secondary': $colors-madame-semantic-content-color-content-ads-secondary,
+          'color-content-on-colored-bg': $colors-madame-semantic-content-color-content-on-colored-bg,
+          'color-content-success': $colors-madame-semantic-content-color-content-success
+        ),
+        'border': (
+          'color-border-primary': $colors-madame-semantic-border-color-border-primary,
+          'color-border-secondary': $colors-madame-semantic-border-color-border-secondary
+        )
+      ),
+      'button': (
+        'primary': (
+          'color-bg-button-primary-default': $colors-madame-button-primary-color-bg-button-primary-default,
+          'color-bg-button-primary-hover': $colors-madame-button-primary-color-bg-button-primary-hover,
+          'color-bg-button-primary-focus': $colors-madame-button-primary-color-bg-button-primary-focus,
+          'color-bg-button-primary-disabled': $colors-madame-button-primary-color-bg-button-primary-disabled,
+          'color-bg-button-primary-pressed': $colors-madame-button-primary-color-bg-button-primary-pressed
+        ),
+        'secondary': (
+          'color-bg-button-secondary-default': $colors-madame-button-secondary-color-bg-button-secondary-default,
+          'color-bg-button-secondary-hover': $colors-madame-button-secondary-color-bg-button-secondary-hover,
+          'color-bg-button-secondary-focus': $colors-madame-button-secondary-color-bg-button-secondary-focus,
+          'color-bg-button-secondary-disabled': $colors-madame-button-secondary-color-bg-button-secondary-disabled,
+          'color-bg-button-secondary-pressed': $colors-madame-button-secondary-color-bg-button-secondary-pressed,
+          'color-border-button-secondary-default': $colors-madame-button-secondary-color-border-button-secondary-default,
+          'color-border-button-secondary-hover': $colors-madame-button-secondary-color-border-button-secondary-hover,
+          'color-content-button-secondary-default': $colors-madame-button-secondary-color-content-button-secondary-default,
+          'color-content-button-secondary-hover': $colors-madame-button-secondary-color-content-button-secondary-hover,
+          'color-border-button-secondary-focus': $colors-madame-button-secondary-color-border-button-secondary-focus,
+          'color-border-button-secondary-disabled': $colors-madame-button-secondary-color-border-button-secondary-disabled,
+          'color-border-button-secondary-pressed': $colors-madame-button-secondary-color-border-button-secondary-pressed
+        ),
+        'on-colored-bg': (
+          'color-bg-button-on-colored-bg-default': $colors-madame-button-on-colored-bg-color-bg-button-on-colored-bg-default,
+          'color-bg-button-on-colored-bg-hover': $colors-madame-button-on-colored-bg-color-bg-button-on-colored-bg-hover,
+          'color-bg-button-on-colored-bg-focus': $colors-madame-button-on-colored-bg-color-bg-button-on-colored-bg-focus,
+          'color-bg-button-on-colored-bg-disabled': $colors-madame-button-on-colored-bg-color-bg-button-on-colored-bg-disabled,
+          'color-bg-button-on-colored-bg-pressed': $colors-madame-button-on-colored-bg-color-bg-button-on-colored-bg-pressed
+        ),
+        'subscribe': (
+          'color-bg-button-subscribe-default': $colors-madame-button-subscribe-color-bg-button-subscribe-default,
+          'color-bg-button-subscribe-hover': $colors-madame-button-subscribe-color-bg-button-subscribe-hover,
+          'color-bg-button-subscribe-focus': $colors-madame-button-subscribe-color-bg-button-subscribe-focus,
+          'color-bg-button-subscribe-disabled': $colors-madame-button-subscribe-color-bg-button-subscribe-disabled,
+          'color-bg-button-subscribe-pressed': $colors-madame-button-subscribe-color-bg-button-subscribe-pressed
+        ),
+        'accent': (
+          'color-bg-button-accent-default': $colors-madame-button-accent-color-bg-button-accent-default,
+          'color-bg-button-accent-hover': $colors-madame-button-accent-color-bg-button-accent-hover,
+          'color-bg-button-accent-focus': $colors-madame-button-accent-color-bg-button-accent-focus,
+          'color-bg-button-accent-disabled': $colors-madame-button-accent-color-bg-button-accent-disabled,
+          'color-bg-button-accent-pressed': $colors-madame-button-accent-color-bg-button-accent-pressed
+        )
+      ),
+      'footer': (
+        'color-bg-footer': $colors-madame-footer-color-bg-footer,
+        'color-content-footer': $colors-madame-footer-color-content-footer
+      ),
+      'form': (
+        'color-border-elementform-default': $colors-madame-form-color-border-elementform-default,
+        'color-border-elementform-hover': $colors-madame-form-color-border-elementform-hover,
+        'color-border-elementform-error': $colors-madame-form-color-border-elementform-error,
+        'color-border-elementform-focus': $colors-madame-form-color-border-elementform-focus,
+        'color-border-elementform-disabled': $colors-madame-form-color-border-elementform-disabled
+      )
+    ),
+    'gala': (
+      'semantic': (
+        'background': (
+          'color-bg-primary': $colors-gala-semantic-background-color-bg-primary,
+          'color-bg-secondary': $colors-gala-semantic-background-color-bg-secondary,
+          'color-bg-ads': $colors-gala-semantic-background-color-bg-ads,
+          'color-bg-tertiary': $colors-gala-semantic-background-color-bg-tertiary,
+          'color-bg-highlight': $colors-gala-semantic-background-color-bg-highlight,
+          'color-bg-subscribe-soft': $colors-gala-semantic-background-color-bg-subscribe-soft,
+          'color-bg-subscribe-bold': $colors-gala-semantic-background-color-bg-subscribe-bold
+        ),
+        'content': (
+          'color-content-primary': $colors-gala-semantic-content-color-content-primary,
+          'color-content-highlight': $colors-gala-semantic-content-color-content-highlight,
+          'color-content-secondary': $colors-gala-semantic-content-color-content-secondary,
+          'color-content-alert': $colors-gala-semantic-content-color-content-alert,
+          'color-content-subscribe': $colors-gala-semantic-content-color-content-subscribe,
+          'color-content-ads-primary': $colors-gala-semantic-content-color-content-ads-primary,
+          'color-content-ads-secondary': $colors-gala-semantic-content-color-content-ads-secondary,
+          'color-content-on-colored-bg': $colors-gala-semantic-content-color-content-on-colored-bg,
+          'color-content-success': $colors-gala-semantic-content-color-content-success
+        ),
+        'border': (
+          'color-border-primary': $colors-gala-semantic-border-color-border-primary,
+          'color-border-secondary': $colors-gala-semantic-border-color-border-secondary
+        )
+      ),
+      'button': (
+        'primary': (
+          'color-bg-button-primary-default': $colors-gala-button-primary-color-bg-button-primary-default,
+          'color-bg-button-primary-hover': $colors-gala-button-primary-color-bg-button-primary-hover,
+          'color-bg-button-primary-focus': $colors-gala-button-primary-color-bg-button-primary-focus,
+          'color-bg-button-primary-disabled': $colors-gala-button-primary-color-bg-button-primary-disabled,
+          'color-bg-button-primary-pressed': $colors-gala-button-primary-color-bg-button-primary-pressed
+        ),
+        'secondary': (
+          'color-bg-button-secondary-default': $colors-gala-button-secondary-color-bg-button-secondary-default,
+          'color-bg-button-secondary-hover': $colors-gala-button-secondary-color-bg-button-secondary-hover,
+          'color-bg-button-secondary-focus': $colors-gala-button-secondary-color-bg-button-secondary-focus,
+          'color-bg-button-secondary-disabled': $colors-gala-button-secondary-color-bg-button-secondary-disabled,
+          'color-bg-button-secondary-pressed': $colors-gala-button-secondary-color-bg-button-secondary-pressed,
+          'color-border-button-secondary-default': $colors-gala-button-secondary-color-border-button-secondary-default,
+          'color-border-button-secondary-hover': $colors-gala-button-secondary-color-border-button-secondary-hover,
+          'color-content-button-secondary-default': $colors-gala-button-secondary-color-content-button-secondary-default,
+          'color-content-button-secondary-hover': $colors-gala-button-secondary-color-content-button-secondary-hover,
+          'color-border-button-secondary-focus': $colors-gala-button-secondary-color-border-button-secondary-focus,
+          'color-border-button-secondary-disabled': $colors-gala-button-secondary-color-border-button-secondary-disabled,
+          'color-border-button-secondary-pressed': $colors-gala-button-secondary-color-border-button-secondary-pressed
+        ),
+        'on-colored-bg': (
+          'color-bg-button-on-colored-bg-default': $colors-gala-button-on-colored-bg-color-bg-button-on-colored-bg-default,
+          'color-bg-button-on-colored-bg-hover': $colors-gala-button-on-colored-bg-color-bg-button-on-colored-bg-hover,
+          'color-bg-button-on-colored-bg-focus': $colors-gala-button-on-colored-bg-color-bg-button-on-colored-bg-focus,
+          'color-bg-button-on-colored-bg-disabled': $colors-gala-button-on-colored-bg-color-bg-button-on-colored-bg-disabled,
+          'color-bg-button-on-colored-bg-pressed': $colors-gala-button-on-colored-bg-color-bg-button-on-colored-bg-pressed
+        ),
+        'subscribe': (
+          'color-bg-button-subscribe-default': $colors-gala-button-subscribe-color-bg-button-subscribe-default,
+          'color-bg-button-subscribe-hover': $colors-gala-button-subscribe-color-bg-button-subscribe-hover,
+          'color-bg-button-subscribe-focus': $colors-gala-button-subscribe-color-bg-button-subscribe-focus,
+          'color-bg-button-subscribe-disabled': $colors-gala-button-subscribe-color-bg-button-subscribe-disabled,
+          'color-bg-button-subscribe-pressed': $colors-gala-button-subscribe-color-bg-button-subscribe-pressed
+        ),
+        'accent': (
+          'color-bg-button-accent-default': $colors-gala-button-accent-color-bg-button-accent-default,
+          'color-bg-button-accent-hover': $colors-gala-button-accent-color-bg-button-accent-hover,
+          'color-bg-button-accent-focus': $colors-gala-button-accent-color-bg-button-accent-focus,
+          'color-bg-button-accent-disabled': $colors-gala-button-accent-color-bg-button-accent-disabled,
+          'color-bg-button-accent-pressed': $colors-gala-button-accent-color-bg-button-accent-pressed
+        )
+      ),
+      'footer': (
+        'color-bg-footer': $colors-gala-footer-color-bg-footer,
+        'color-content-footer': $colors-gala-footer-color-content-footer
+      ),
+      'form': (
+        'color-border-elementform-default': $colors-gala-form-color-border-elementform-default,
+        'color-border-elementform-hover': $colors-gala-form-color-border-elementform-hover,
+        'color-border-elementform-error': $colors-gala-form-color-border-elementform-error,
+        'color-border-elementform-focus': $colors-gala-form-color-border-elementform-focus,
+        'color-border-elementform-disabled': $colors-gala-form-color-border-elementform-disabled
+      )
+    )
+  ),
+  'core colors': (
+    'figaro': (
+      'blue': (
+        '50': $core-colors-figaro-blue-50,
+        '100': $core-colors-figaro-blue-100,
+        '200': $core-colors-figaro-blue-200,
+        '300': $core-colors-figaro-blue-300,
+        '400': $core-colors-figaro-blue-400,
+        '500': $core-colors-figaro-blue-500,
+        '600': $core-colors-figaro-blue-600,
+        '700': $core-colors-figaro-blue-700,
+        '800': $core-colors-figaro-blue-800,
+        '900': $core-colors-figaro-blue-900
+      ),
+      'green': (
+        '50': $core-colors-figaro-green-50,
+        '100': $core-colors-figaro-green-100,
+        '200': $core-colors-figaro-green-200,
+        '300': $core-colors-figaro-green-300,
+        '400': $core-colors-figaro-green-400,
+        '500': $core-colors-figaro-green-500,
+        '600': $core-colors-figaro-green-600,
+        '700': $core-colors-figaro-green-700,
+        '800': $core-colors-figaro-green-800,
+        '900': $core-colors-figaro-green-900
+      ),
+      'yellow': (
+        '50': $core-colors-figaro-yellow-50,
+        '100': $core-colors-figaro-yellow-100,
+        '200': $core-colors-figaro-yellow-200,
+        '300': $core-colors-figaro-yellow-300,
+        '400': $core-colors-figaro-yellow-400,
+        '500': $core-colors-figaro-yellow-500,
+        '600': $core-colors-figaro-yellow-600,
+        '700': $core-colors-figaro-yellow-700,
+        '800': $core-colors-figaro-yellow-800,
+        '900': $core-colors-figaro-yellow-900
+      ),
+      'grey': (
+        '50': $core-colors-figaro-grey-50,
+        '100': $core-colors-figaro-grey-100,
+        '200': $core-colors-figaro-grey-200,
+        '300': $core-colors-figaro-grey-300,
+        '400': $core-colors-figaro-grey-400,
+        '500': $core-colors-figaro-grey-500,
+        '600': $core-colors-figaro-grey-600,
+        '700': $core-colors-figaro-grey-700,
+        '800': $core-colors-figaro-grey-800,
+        '900': $core-colors-figaro-grey-900,
+        'white': $core-colors-figaro-grey-white,
+        'black': $core-colors-figaro-grey-black
+      ),
+      'red': (
+        '50': $core-colors-figaro-red-50,
+        '100': $core-colors-figaro-red-100,
+        '200': $core-colors-figaro-red-200,
+        '300': $core-colors-figaro-red-300,
+        '400': $core-colors-figaro-red-400,
+        '500': $core-colors-figaro-red-500,
+        '600': $core-colors-figaro-red-600,
+        '700': $core-colors-figaro-red-700,
+        '800': $core-colors-figaro-red-800,
+        '900': $core-colors-figaro-red-900
+      ),
+      'beige': (
+        '100': $core-colors-figaro-beige-100
+      )
+    ),
+    'madame': (
+      'blue': (
+        '50': $core-colors-madame-blue-50,
+        '100': $core-colors-madame-blue-100,
+        '200': $core-colors-madame-blue-200,
+        '300': $core-colors-madame-blue-300,
+        '400': $core-colors-madame-blue-400,
+        '500': $core-colors-madame-blue-500,
+        '600': $core-colors-madame-blue-600,
+        '700': $core-colors-madame-blue-700,
+        '800': $core-colors-madame-blue-800,
+        '900': $core-colors-madame-blue-900
+      ),
+      'green': (
+        '50': $core-colors-madame-green-50,
+        '100': $core-colors-madame-green-100,
+        '200': $core-colors-madame-green-200,
+        '300': $core-colors-madame-green-300,
+        '400': $core-colors-madame-green-400,
+        '500': $core-colors-madame-green-500,
+        '600': $core-colors-madame-green-600,
+        '700': $core-colors-madame-green-700,
+        '800': $core-colors-madame-green-800,
+        '900': $core-colors-madame-green-900
+      ),
+      'yellow': (
+        '50': $core-colors-madame-yellow-50,
+        '100': $core-colors-madame-yellow-100,
+        '200': $core-colors-madame-yellow-200,
+        '300': $core-colors-madame-yellow-300,
+        '400': $core-colors-madame-yellow-400,
+        '500': $core-colors-madame-yellow-500,
+        '600': $core-colors-madame-yellow-600,
+        '700': $core-colors-madame-yellow-700,
+        '800': $core-colors-madame-yellow-800,
+        '900': $core-colors-madame-yellow-900
+      ),
+      'grey': (
+        '50': $core-colors-madame-grey-50,
+        '100': $core-colors-madame-grey-100,
+        '200': $core-colors-madame-grey-200,
+        '300': $core-colors-madame-grey-300,
+        '400': $core-colors-madame-grey-400,
+        '500': $core-colors-madame-grey-500,
+        '600': $core-colors-madame-grey-600,
+        '700': $core-colors-madame-grey-700,
+        '800': $core-colors-madame-grey-800,
+        '900': $core-colors-madame-grey-900,
+        'white': $core-colors-madame-grey-white,
+        'black': $core-colors-madame-grey-black
+      ),
+      'red': (
+        '50': $core-colors-madame-red-50,
+        '100': $core-colors-madame-red-100,
+        '200': $core-colors-madame-red-200,
+        '300': $core-colors-madame-red-300,
+        '400': $core-colors-madame-red-400,
+        '500': $core-colors-madame-red-500,
+        '600': $core-colors-madame-red-600,
+        '700': $core-colors-madame-red-700,
+        '800': $core-colors-madame-red-800,
+        '900': $core-colors-madame-red-900
+      ),
+      'beige': (
+        '100': $core-colors-madame-beige-100
+      )
+    ),
+    'gala': (
+      'blue': (
+        '50': $core-colors-gala-blue-50,
+        '100': $core-colors-gala-blue-100,
+        '200': $core-colors-gala-blue-200,
+        '300': $core-colors-gala-blue-300,
+        '400': $core-colors-gala-blue-400,
+        '500': $core-colors-gala-blue-500,
+        '600': $core-colors-gala-blue-600,
+        '700': $core-colors-gala-blue-700,
+        '800': $core-colors-gala-blue-800,
+        '900': $core-colors-gala-blue-900
+      ),
+      'green': (
+        '50': $core-colors-gala-green-50,
+        '100': $core-colors-gala-green-100,
+        '200': $core-colors-gala-green-200,
+        '300': $core-colors-gala-green-300,
+        '400': $core-colors-gala-green-400,
+        '500': $core-colors-gala-green-500,
+        '600': $core-colors-gala-green-600,
+        '700': $core-colors-gala-green-700,
+        '800': $core-colors-gala-green-800,
+        '900': $core-colors-gala-green-900
+      ),
+      'yellow': (
+        '50': $core-colors-gala-yellow-50,
+        '100': $core-colors-gala-yellow-100,
+        '200': $core-colors-gala-yellow-200,
+        '300': $core-colors-gala-yellow-300,
+        '400': $core-colors-gala-yellow-400,
+        '500': $core-colors-gala-yellow-500,
+        '600': $core-colors-gala-yellow-600,
+        '700': $core-colors-gala-yellow-700,
+        '800': $core-colors-gala-yellow-800,
+        '900': $core-colors-gala-yellow-900
+      ),
+      'grey': (
+        '50': $core-colors-gala-grey-50,
+        '100': $core-colors-gala-grey-100,
+        '200': $core-colors-gala-grey-200,
+        '300': $core-colors-gala-grey-300,
+        '400': $core-colors-gala-grey-400,
+        '500': $core-colors-gala-grey-500,
+        '600': $core-colors-gala-grey-600,
+        '700': $core-colors-gala-grey-700,
+        '800': $core-colors-gala-grey-800,
+        '900': $core-colors-gala-grey-900,
+        'white': $core-colors-gala-grey-white,
+        'black': $core-colors-gala-grey-black
+      ),
+      'red': (
+        '50': $core-colors-gala-red-50,
+        '100': $core-colors-gala-red-100,
+        '200': $core-colors-gala-red-200,
+        '300': $core-colors-gala-red-300,
+        '400': $core-colors-gala-red-400,
+        '500': $core-colors-gala-red-500,
+        '600': $core-colors-gala-red-600,
+        '700': $core-colors-gala-red-700,
+        '800': $core-colors-gala-red-800,
+        '900': $core-colors-gala-red-900
+      ),
+      'beige': (
+        '100': $core-colors-gala-beige-100
+      )
+    )
+  ),
+  'core fonts': (
+    'large': (
+      'font family': (
+        'primary': $core-fonts-large-font-family-primary,
+        'secondary': $core-fonts-large-font-family-secondary
+      ),
+      'font size': (
+        'size-3': $core-fonts-large-font-size-size-3,
+        'size-4': $core-fonts-large-font-size-size-4,
+        'size-5': $core-fonts-large-font-size-size-5,
+        'size-6': $core-fonts-large-font-size-size-6,
+        'size-7': $core-fonts-large-font-size-size-7,
+        'size-8': $core-fonts-large-font-size-size-8,
+        'size-1': $core-fonts-large-font-size-size-1,
+        'size-2': $core-fonts-large-font-size-size-2,
+        'size-9': $core-fonts-large-font-size-size-9
+      ),
+      'line height': (
+        'height-1': $core-fonts-large-line-height-height-1,
+        'height-2': $core-fonts-large-line-height-height-2,
+        'height-4': $core-fonts-large-line-height-height-4,
+        'height-5': $core-fonts-large-line-height-height-5,
+        'height-6': $core-fonts-large-line-height-height-6,
+        'height-3': $core-fonts-large-line-height-height-3,
+        'height-7': $core-fonts-large-line-height-height-7,
+        'height-8': $core-fonts-large-line-height-height-8,
+        'height-9': $core-fonts-large-line-height-height-9
+      ),
+      'font weight': (
+        'bold-700': $core-fonts-large-font-weight-bold-700,
+        'semibold-600': $core-fonts-large-font-weight-semibold-600,
+        'regular-400': $core-fonts-large-font-weight-regular-400,
+        'regular-500': $core-fonts-large-font-weight-regular-500,
+        'italic-400': $core-fonts-large-font-weight-italic-400
+      )
+    ),
+    'normal': (
+      'font family': (
+        'primary': $core-fonts-normal-font-family-primary,
+        'secondary': $core-fonts-normal-font-family-secondary
+      ),
+      'font size': (
+        'size-3': $core-fonts-normal-font-size-size-3,
+        'size-4': $core-fonts-normal-font-size-size-4,
+        'size-5': $core-fonts-normal-font-size-size-5,
+        'size-6': $core-fonts-normal-font-size-size-6,
+        'size-7': $core-fonts-normal-font-size-size-7,
+        'size-8': $core-fonts-normal-font-size-size-8,
+        'size-1': $core-fonts-normal-font-size-size-1,
+        'size-2': $core-fonts-normal-font-size-size-2,
+        'size-9': $core-fonts-normal-font-size-size-9
+      ),
+      'line height': (
+        'height-1': $core-fonts-normal-line-height-height-1,
+        'height-2': $core-fonts-normal-line-height-height-2,
+        'height-4': $core-fonts-normal-line-height-height-4,
+        'height-5': $core-fonts-normal-line-height-height-5,
+        'height-6': $core-fonts-normal-line-height-height-6,
+        'height-3': $core-fonts-normal-line-height-height-3,
+        'height-7': $core-fonts-normal-line-height-height-7,
+        'height-8': $core-fonts-normal-line-height-height-8,
+        'height-9': $core-fonts-normal-line-height-height-9
+      ),
+      'font weight': (
+        'bold-700': $core-fonts-normal-font-weight-bold-700,
+        'semibold-600': $core-fonts-normal-font-weight-semibold-600,
+        'regular-400': $core-fonts-normal-font-weight-regular-400,
+        'regular-500': $core-fonts-normal-font-weight-regular-500,
+        'italic-400': $core-fonts-normal-font-weight-italic-400
+      )
+    ),
+    'small': (
+      'font family': (
+        'primary': $core-fonts-small-font-family-primary,
+        'secondary': $core-fonts-small-font-family-secondary
+      ),
+      'font size': (
+        'size-3': $core-fonts-small-font-size-size-3,
+        'size-4': $core-fonts-small-font-size-size-4,
+        'size-5': $core-fonts-small-font-size-size-5,
+        'size-6': $core-fonts-small-font-size-size-6,
+        'size-7': $core-fonts-small-font-size-size-7,
+        'size-8': $core-fonts-small-font-size-size-8,
+        'size-1': $core-fonts-small-font-size-size-1,
+        'size-2': $core-fonts-small-font-size-size-2,
+        'size-9': $core-fonts-small-font-size-size-9
+      ),
+      'line height': (
+        'height-1': $core-fonts-small-line-height-height-1,
+        'height-2': $core-fonts-small-line-height-height-2,
+        'height-4': $core-fonts-small-line-height-height-4,
+        'height-5': $core-fonts-small-line-height-height-5,
+        'height-6': $core-fonts-small-line-height-height-6,
+        'height-3': $core-fonts-small-line-height-height-3,
+        'height-7': $core-fonts-small-line-height-height-7,
+        'height-8': $core-fonts-small-line-height-height-8,
+        'height-9': $core-fonts-small-line-height-height-9
+      ),
+      'font weight': (
+        'bold-700': $core-fonts-small-font-weight-bold-700,
+        'semibold-600': $core-fonts-small-font-weight-semibold-600,
+        'regular-400': $core-fonts-small-font-weight-regular-400,
+        'regular-500': $core-fonts-small-font-weight-regular-500,
+        'italic-400': $core-fonts-small-font-weight-italic-400
+      )
+    ),
+    'x-small': (
+      'font family': (
+        'primary': $core-fonts-x-small-font-family-primary,
+        'secondary': $core-fonts-x-small-font-family-secondary
+      ),
+      'font size': (
+        'size-3': $core-fonts-x-small-font-size-size-3,
+        'size-4': $core-fonts-x-small-font-size-size-4,
+        'size-5': $core-fonts-x-small-font-size-size-5,
+        'size-6': $core-fonts-x-small-font-size-size-6,
+        'size-7': $core-fonts-x-small-font-size-size-7,
+        'size-8': $core-fonts-x-small-font-size-size-8,
+        'size-1': $core-fonts-x-small-font-size-size-1,
+        'size-2': $core-fonts-x-small-font-size-size-2,
+        'size-9': $core-fonts-x-small-font-size-size-9
+      ),
+      'line height': (
+        'height-1': $core-fonts-x-small-line-height-height-1,
+        'height-2': $core-fonts-x-small-line-height-height-2,
+        'height-4': $core-fonts-x-small-line-height-height-4,
+        'height-5': $core-fonts-x-small-line-height-height-5,
+        'height-6': $core-fonts-x-small-line-height-height-6,
+        'height-3': $core-fonts-x-small-line-height-height-3,
+        'height-7': $core-fonts-x-small-line-height-height-7,
+        'height-8': $core-fonts-x-small-line-height-height-8,
+        'height-9': $core-fonts-x-small-line-height-height-9
+      ),
+      'font weight': (
+        'bold-700': $core-fonts-x-small-font-weight-bold-700,
+        'semibold-600': $core-fonts-x-small-font-weight-semibold-600,
+        'regular-400': $core-fonts-x-small-font-weight-regular-400,
+        'regular-500': $core-fonts-x-small-font-weight-regular-500,
+        'italic-400': $core-fonts-x-small-font-weight-italic-400
+      )
+    )
+  ),
+  'text styles variables': (
+    'large': (
+      'heading 1': (
+        'font-size': $text-styles-variables-large-heading-1-font-size,
+        'line-height': $text-styles-variables-large-heading-1-line-height
+      ),
+      'heading 2': (
+        'font-size': $text-styles-variables-large-heading-2-font-size,
+        'line-height': $text-styles-variables-large-heading-2-line-height
+      ),
+      'heading 3': (
+        'font-size': $text-styles-variables-large-heading-3-font-size,
+        'line-height': $text-styles-variables-large-heading-3-line-height
+      ),
+      'heading 4': (
+        'font-size': $text-styles-variables-large-heading-4-font-size,
+        'line-height': $text-styles-variables-large-heading-4-line-height
+      ),
+      'heading 5': (
+        'font-size': $text-styles-variables-large-heading-5-font-size,
+        'line-height': $text-styles-variables-large-heading-5-line-height
+      ),
+      'heading 6': (
+        'font-size': $text-styles-variables-large-heading-6-font-size,
+        'line-height': $text-styles-variables-large-heading-6-line-height
+      ),
+      'standfirst 1': (
+        'font-size': $text-styles-variables-large-standfirst-1-font-size,
+        'line-height': $text-styles-variables-large-standfirst-1-line-height
+      ),
+      'standfirst 2': (
+        'font-size': $text-styles-variables-large-standfirst-2-font-size,
+        'line-height': $text-styles-variables-large-standfirst-2-line-height
+      ),
+      'standfirst 3': (
+        'font-size': $text-styles-variables-large-standfirst-3-font-size,
+        'line-height': $text-styles-variables-large-standfirst-3-line-height
+      ),
+      'standfirst 4': (
+        'font-size': $text-styles-variables-large-standfirst-4-font-size,
+        'line-height': $text-styles-variables-large-standfirst-4-line-height
+      ),
+      'standfirst 5': (
+        'font-size': $text-styles-variables-large-standfirst-5-font-size,
+        'line-height': $text-styles-variables-large-standfirst-5-line-height
+      ),
+      'body': (
+        'font-size': $text-styles-variables-large-body-font-size,
+        'line-height': $text-styles-variables-large-body-line-height
+      ),
+      'title 1': (
+        'font-size': $text-styles-variables-large-title-1-font-size,
+        'line-height': $text-styles-variables-large-title-1-line-height
+      ),
+      'title 2': (
+        'font-size': $text-styles-variables-large-title-2-font-size,
+        'line-height': $text-styles-variables-large-title-2-line-height
+      ),
+      'title 3': (
+        'font-size': $text-styles-variables-large-title-3-font-size,
+        'line-height': $text-styles-variables-large-title-3-line-height
+      ),
+      'caption 1': (
+        'font-size': $text-styles-variables-large-caption-1-font-size,
+        'line-height': $text-styles-variables-large-caption-1-line-height
+      ),
+      'caption 2': (
+        'font-size': $text-styles-variables-large-caption-2-font-size,
+        'line-height': $text-styles-variables-large-caption-2-line-height
+      ),
+      'caption 3': (
+        'font-size': $text-styles-variables-large-caption-3-font-size,
+        'line-height': $text-styles-variables-large-caption-3-line-height
+      ),
+      'link 1': (
+        'font-size': $text-styles-variables-large-link-1-font-size,
+        'line-height': $text-styles-variables-large-link-1-line-height
+      ),
+      'link 3': (
+        'font-size': $text-styles-variables-large-link-3-font-size,
+        'line-height': $text-styles-variables-large-link-3-line-height
+      ),
+      'button': (
+        'font-size': $text-styles-variables-large-button-font-size,
+        'line-height': $text-styles-variables-large-button-line-height
+      ),
+      'credit': (
+        'font-size': $text-styles-variables-large-credit-font-size,
+        'line-height': $text-styles-variables-large-credit-line-height
+      ),
+      'title 5': (
+        'font-size': $text-styles-variables-large-title-5-font-size,
+        'line-height': $text-styles-variables-large-title-5-line-height
+      ),
+      'title 4': (
+        'font-size': $text-styles-variables-large-title-4-font-size,
+        'line-height': $text-styles-variables-large-title-4-line-height
+      ),
+      'link 2': (
+        'font-size': $text-styles-variables-large-link-2-font-size,
+        'line-height': $text-styles-variables-large-link-2-line-height
+      ),
+      'quote': (
+        'font-size': $text-styles-variables-large-quote-font-size,
+        'line-height': $text-styles-variables-large-quote-line-height
+      )
+    ),
+    'normal': (
+      'heading 1': (
+        'font-size': $text-styles-variables-normal-heading-1-font-size,
+        'line-height': $text-styles-variables-normal-heading-1-line-height
+      ),
+      'heading 2': (
+        'font-size': $text-styles-variables-normal-heading-2-font-size,
+        'line-height': $text-styles-variables-normal-heading-2-line-height
+      ),
+      'heading 3': (
+        'font-size': $text-styles-variables-normal-heading-3-font-size,
+        'line-height': $text-styles-variables-normal-heading-3-line-height
+      ),
+      'heading 4': (
+        'font-size': $text-styles-variables-normal-heading-4-font-size,
+        'line-height': $text-styles-variables-normal-heading-4-line-height
+      ),
+      'heading 5': (
+        'font-size': $text-styles-variables-normal-heading-5-font-size,
+        'line-height': $text-styles-variables-normal-heading-5-line-height
+      ),
+      'heading 6': (
+        'font-size': $text-styles-variables-normal-heading-6-font-size,
+        'line-height': $text-styles-variables-normal-heading-6-line-height
+      ),
+      'standfirst 1': (
+        'font-size': $text-styles-variables-normal-standfirst-1-font-size,
+        'line-height': $text-styles-variables-normal-standfirst-1-line-height
+      ),
+      'standfirst 2': (
+        'font-size': $text-styles-variables-normal-standfirst-2-font-size,
+        'line-height': $text-styles-variables-normal-standfirst-2-line-height
+      ),
+      'standfirst 3': (
+        'font-size': $text-styles-variables-normal-standfirst-3-font-size,
+        'line-height': $text-styles-variables-normal-standfirst-3-line-height
+      ),
+      'standfirst 4': (
+        'font-size': $text-styles-variables-normal-standfirst-4-font-size,
+        'line-height': $text-styles-variables-normal-standfirst-4-line-height
+      ),
+      'standfirst 5': (
+        'font-size': $text-styles-variables-normal-standfirst-5-font-size,
+        'line-height': $text-styles-variables-normal-standfirst-5-line-height
+      ),
+      'body': (
+        'font-size': $text-styles-variables-normal-body-font-size,
+        'line-height': $text-styles-variables-normal-body-line-height
+      ),
+      'title 1': (
+        'font-size': $text-styles-variables-normal-title-1-font-size,
+        'line-height': $text-styles-variables-normal-title-1-line-height
+      ),
+      'title 2': (
+        'font-size': $text-styles-variables-normal-title-2-font-size,
+        'line-height': $text-styles-variables-normal-title-2-line-height
+      ),
+      'title 3': (
+        'font-size': $text-styles-variables-normal-title-3-font-size,
+        'line-height': $text-styles-variables-normal-title-3-line-height
+      ),
+      'caption 1': (
+        'font-size': $text-styles-variables-normal-caption-1-font-size,
+        'line-height': $text-styles-variables-normal-caption-1-line-height
+      ),
+      'caption 2': (
+        'font-size': $text-styles-variables-normal-caption-2-font-size,
+        'line-height': $text-styles-variables-normal-caption-2-line-height
+      ),
+      'caption 3': (
+        'font-size': $text-styles-variables-normal-caption-3-font-size,
+        'line-height': $text-styles-variables-normal-caption-3-line-height
+      ),
+      'link 1': (
+        'font-size': $text-styles-variables-normal-link-1-font-size,
+        'line-height': $text-styles-variables-normal-link-1-line-height
+      ),
+      'link 3': (
+        'font-size': $text-styles-variables-normal-link-3-font-size,
+        'line-height': $text-styles-variables-normal-link-3-line-height
+      ),
+      'button': (
+        'font-size': $text-styles-variables-normal-button-font-size,
+        'line-height': $text-styles-variables-normal-button-line-height
+      ),
+      'credit': (
+        'font-size': $text-styles-variables-normal-credit-font-size,
+        'line-height': $text-styles-variables-normal-credit-line-height
+      ),
+      'title 5': (
+        'font-size': $text-styles-variables-normal-title-5-font-size,
+        'line-height': $text-styles-variables-normal-title-5-line-height
+      ),
+      'title 4': (
+        'font-size': $text-styles-variables-normal-title-4-font-size,
+        'line-height': $text-styles-variables-normal-title-4-line-height
+      ),
+      'link 2': (
+        'font-size': $text-styles-variables-normal-link-2-font-size,
+        'line-height': $text-styles-variables-normal-link-2-line-height
+      ),
+      'quote': (
+        'font-size': $text-styles-variables-normal-quote-font-size,
+        'line-height': $text-styles-variables-normal-quote-line-height
+      )
+    ),
+    'small': (
+      'heading 1': (
+        'font-size': $text-styles-variables-small-heading-1-font-size,
+        'line-height': $text-styles-variables-small-heading-1-line-height
+      ),
+      'heading 2': (
+        'font-size': $text-styles-variables-small-heading-2-font-size,
+        'line-height': $text-styles-variables-small-heading-2-line-height
+      ),
+      'heading 3': (
+        'font-size': $text-styles-variables-small-heading-3-font-size,
+        'line-height': $text-styles-variables-small-heading-3-line-height
+      ),
+      'heading 4': (
+        'font-size': $text-styles-variables-small-heading-4-font-size,
+        'line-height': $text-styles-variables-small-heading-4-line-height
+      ),
+      'heading 5': (
+        'font-size': $text-styles-variables-small-heading-5-font-size,
+        'line-height': $text-styles-variables-small-heading-5-line-height
+      ),
+      'heading 6': (
+        'font-size': $text-styles-variables-small-heading-6-font-size,
+        'line-height': $text-styles-variables-small-heading-6-line-height
+      ),
+      'standfirst 1': (
+        'font-size': $text-styles-variables-small-standfirst-1-font-size,
+        'line-height': $text-styles-variables-small-standfirst-1-line-height
+      ),
+      'standfirst 2': (
+        'font-size': $text-styles-variables-small-standfirst-2-font-size,
+        'line-height': $text-styles-variables-small-standfirst-2-line-height
+      ),
+      'standfirst 3': (
+        'font-size': $text-styles-variables-small-standfirst-3-font-size,
+        'line-height': $text-styles-variables-small-standfirst-3-line-height
+      ),
+      'standfirst 4': (
+        'font-size': $text-styles-variables-small-standfirst-4-font-size,
+        'line-height': $text-styles-variables-small-standfirst-4-line-height
+      ),
+      'standfirst 5': (
+        'font-size': $text-styles-variables-small-standfirst-5-font-size,
+        'line-height': $text-styles-variables-small-standfirst-5-line-height
+      ),
+      'body': (
+        'font-size': $text-styles-variables-small-body-font-size,
+        'line-height': $text-styles-variables-small-body-line-height
+      ),
+      'title 1': (
+        'font-size': $text-styles-variables-small-title-1-font-size,
+        'line-height': $text-styles-variables-small-title-1-line-height
+      ),
+      'title 2': (
+        'font-size': $text-styles-variables-small-title-2-font-size,
+        'line-height': $text-styles-variables-small-title-2-line-height
+      ),
+      'title 3': (
+        'font-size': $text-styles-variables-small-title-3-font-size,
+        'line-height': $text-styles-variables-small-title-3-line-height
+      ),
+      'caption 1': (
+        'font-size': $text-styles-variables-small-caption-1-font-size,
+        'line-height': $text-styles-variables-small-caption-1-line-height
+      ),
+      'caption 2': (
+        'font-size': $text-styles-variables-small-caption-2-font-size,
+        'line-height': $text-styles-variables-small-caption-2-line-height
+      ),
+      'caption 3': (
+        'font-size': $text-styles-variables-small-caption-3-font-size,
+        'line-height': $text-styles-variables-small-caption-3-line-height
+      ),
+      'link 1': (
+        'font-size': $text-styles-variables-small-link-1-font-size,
+        'line-height': $text-styles-variables-small-link-1-line-height
+      ),
+      'link 3': (
+        'font-size': $text-styles-variables-small-link-3-font-size,
+        'line-height': $text-styles-variables-small-link-3-line-height
+      ),
+      'button': (
+        'font-size': $text-styles-variables-small-button-font-size,
+        'line-height': $text-styles-variables-small-button-line-height
+      ),
+      'credit': (
+        'font-size': $text-styles-variables-small-credit-font-size,
+        'line-height': $text-styles-variables-small-credit-line-height
+      ),
+      'title 5': (
+        'font-size': $text-styles-variables-small-title-5-font-size,
+        'line-height': $text-styles-variables-small-title-5-line-height
+      ),
+      'title 4': (
+        'font-size': $text-styles-variables-small-title-4-font-size,
+        'line-height': $text-styles-variables-small-title-4-line-height
+      ),
+      'link 2': (
+        'font-size': $text-styles-variables-small-link-2-font-size,
+        'line-height': $text-styles-variables-small-link-2-line-height
+      ),
+      'quote': (
+        'font-size': $text-styles-variables-small-quote-font-size,
+        'line-height': $text-styles-variables-small-quote-line-height
+      )
+    ),
+    'x-small': (
+      'heading 1': (
+        'font-size': $text-styles-variables-x-small-heading-1-font-size,
+        'line-height': $text-styles-variables-x-small-heading-1-line-height
+      ),
+      'heading 2': (
+        'font-size': $text-styles-variables-x-small-heading-2-font-size,
+        'line-height': $text-styles-variables-x-small-heading-2-line-height
+      ),
+      'heading 3': (
+        'font-size': $text-styles-variables-x-small-heading-3-font-size,
+        'line-height': $text-styles-variables-x-small-heading-3-line-height
+      ),
+      'heading 4': (
+        'font-size': $text-styles-variables-x-small-heading-4-font-size,
+        'line-height': $text-styles-variables-x-small-heading-4-line-height
+      ),
+      'heading 5': (
+        'font-size': $text-styles-variables-x-small-heading-5-font-size,
+        'line-height': $text-styles-variables-x-small-heading-5-line-height
+      ),
+      'heading 6': (
+        'font-size': $text-styles-variables-x-small-heading-6-font-size,
+        'line-height': $text-styles-variables-x-small-heading-6-line-height
+      ),
+      'standfirst 1': (
+        'font-size': $text-styles-variables-x-small-standfirst-1-font-size,
+        'line-height': $text-styles-variables-x-small-standfirst-1-line-height
+      ),
+      'standfirst 2': (
+        'font-size': $text-styles-variables-x-small-standfirst-2-font-size,
+        'line-height': $text-styles-variables-x-small-standfirst-2-line-height
+      ),
+      'standfirst 3': (
+        'font-size': $text-styles-variables-x-small-standfirst-3-font-size,
+        'line-height': $text-styles-variables-x-small-standfirst-3-line-height
+      ),
+      'standfirst 4': (
+        'font-size': $text-styles-variables-x-small-standfirst-4-font-size,
+        'line-height': $text-styles-variables-x-small-standfirst-4-line-height
+      ),
+      'standfirst 5': (
+        'font-size': $text-styles-variables-x-small-standfirst-5-font-size,
+        'line-height': $text-styles-variables-x-small-standfirst-5-line-height
+      ),
+      'body': (
+        'font-size': $text-styles-variables-x-small-body-font-size,
+        'line-height': $text-styles-variables-x-small-body-line-height
+      ),
+      'title 1': (
+        'font-size': $text-styles-variables-x-small-title-1-font-size,
+        'line-height': $text-styles-variables-x-small-title-1-line-height
+      ),
+      'title 2': (
+        'font-size': $text-styles-variables-x-small-title-2-font-size,
+        'line-height': $text-styles-variables-x-small-title-2-line-height
+      ),
+      'title 3': (
+        'font-size': $text-styles-variables-x-small-title-3-font-size,
+        'line-height': $text-styles-variables-x-small-title-3-line-height
+      ),
+      'caption 1': (
+        'font-size': $text-styles-variables-x-small-caption-1-font-size,
+        'line-height': $text-styles-variables-x-small-caption-1-line-height
+      ),
+      'caption 2': (
+        'font-size': $text-styles-variables-x-small-caption-2-font-size,
+        'line-height': $text-styles-variables-x-small-caption-2-line-height
+      ),
+      'caption 3': (
+        'font-size': $text-styles-variables-x-small-caption-3-font-size,
+        'line-height': $text-styles-variables-x-small-caption-3-line-height
+      ),
+      'link 1': (
+        'font-size': $text-styles-variables-x-small-link-1-font-size,
+        'line-height': $text-styles-variables-x-small-link-1-line-height
+      ),
+      'link 3': (
+        'font-size': $text-styles-variables-x-small-link-3-font-size,
+        'line-height': $text-styles-variables-x-small-link-3-line-height
+      ),
+      'button': (
+        'font-size': $text-styles-variables-x-small-button-font-size,
+        'line-height': $text-styles-variables-x-small-button-line-height
+      ),
+      'credit': (
+        'font-size': $text-styles-variables-x-small-credit-font-size,
+        'line-height': $text-styles-variables-x-small-credit-line-height
+      ),
+      'title 5': (
+        'font-size': $text-styles-variables-x-small-title-5-font-size,
+        'line-height': $text-styles-variables-x-small-title-5-line-height
+      ),
+      'title 4': (
+        'font-size': $text-styles-variables-x-small-title-4-font-size,
+        'line-height': $text-styles-variables-x-small-title-4-line-height
+      ),
+      'link 2': (
+        'font-size': $text-styles-variables-x-small-link-2-font-size,
+        'line-height': $text-styles-variables-x-small-link-2-line-height
+      ),
+      'quote': (
+        'font-size': $text-styles-variables-x-small-quote-font-size,
+        'line-height': $text-styles-variables-x-small-quote-line-height
+      )
+    )
+  ),
+  'typography': (
+    'heading 1': (
+      'description': 'Titre des tranches
+Titre de la HP Event 3 tiers
+Titre de la HP Event 2 tiers',
+      'fontSize': $typography-heading-1-font-size,
+      'textDecoration': $typography-heading-1-text-decoration,
+      'fontFamily': $typography-heading-1-font-family,
+      'fontWeight': $typography-heading-1-font-weight,
+      'fontStyle': $typography-heading-1-font-style,
+      'fontStretch': $typography-heading-1-font-stretch,
+      'letterSpacing': $typography-heading-1-letter-spacing,
+      'lineHeight': $typography-heading-1-line-height,
+      'paragraphIndent': $typography-heading-1-paragraph-indent,
+      'paragraphSpacing': $typography-heading-1-paragraph-spacing,
+      'textCase': $typography-heading-1-text-case
+    ),
+    'heading 2': (
+      'description': 'Titres des articles',
+      'fontSize': $typography-heading-2-font-size,
+      'textDecoration': $typography-heading-2-text-decoration,
+      'fontFamily': $typography-heading-2-font-family,
+      'fontWeight': $typography-heading-2-font-weight,
+      'fontStyle': $typography-heading-2-font-style,
+      'fontStretch': $typography-heading-2-font-stretch,
+      'letterSpacing': $typography-heading-2-letter-spacing,
+      'lineHeight': $typography-heading-2-line-height,
+      'paragraphIndent': $typography-heading-2-paragraph-indent,
+      'paragraphSpacing': $typography-heading-2-paragraph-spacing,
+      'textCase': $typography-heading-2-text-case
+    ),
+    'heading 3': (
+      'description': 'Titre des exergues
+Intertitre
+Titres des newsletters
+Titre widget paywall
+Titres articles en position 1',
+      'fontSize': $typography-heading-3-font-size,
+      'textDecoration': $typography-heading-3-text-decoration,
+      'fontFamily': $typography-heading-3-font-family,
+      'fontWeight': $typography-heading-3-font-weight,
+      'fontStyle': $typography-heading-3-font-style,
+      'fontStretch': $typography-heading-3-font-stretch,
+      'letterSpacing': $typography-heading-3-letter-spacing,
+      'lineHeight': $typography-heading-3-line-height,
+      'paragraphIndent': $typography-heading-3-paragraph-indent,
+      'paragraphSpacing': $typography-heading-3-paragraph-spacing,
+      'textCase': $typography-heading-3-text-case
+    ),
+    'heading 4': (
+      'description': 'Titres articles dans le fleuve
+Titre premier article de l'ensemble en première position
+Titre premier article de l'ensemble',
+      'fontSize': $typography-heading-4-font-size,
+      'textDecoration': $typography-heading-4-text-decoration,
+      'fontFamily': $typography-heading-4-font-family,
+      'fontWeight': $typography-heading-4-font-weight,
+      'fontStyle': $typography-heading-4-font-style,
+      'fontStretch': $typography-heading-4-font-stretch,
+      'letterSpacing': $typography-heading-4-letter-spacing,
+      'lineHeight': $typography-heading-4-line-height,
+      'paragraphIndent': $typography-heading-4-paragraph-indent,
+      'paragraphSpacing': $typography-heading-4-paragraph-spacing,
+      'textCase': $typography-heading-4-text-case
+    ),
+    'heading 5': (
+      'description': 'Titres des articles de l'ensemble
+Titres des articles recommandés
+Titre ensemble dans le fleuve
+Titres articles dans les ensemble
+Titre d'un dossier
+Titre de l'article de l'alerte',
+      'fontSize': $typography-heading-5-font-size,
+      'textDecoration': $typography-heading-5-text-decoration,
+      'fontFamily': $typography-heading-5-font-family,
+      'fontWeight': $typography-heading-5-font-weight,
+      'fontStyle': $typography-heading-5-font-style,
+      'fontStretch': $typography-heading-5-font-stretch,
+      'letterSpacing': $typography-heading-5-letter-spacing,
+      'lineHeight': $typography-heading-5-line-height,
+      'paragraphIndent': $typography-heading-5-paragraph-indent,
+      'paragraphSpacing': $typography-heading-5-paragraph-spacing,
+      'textCase': $typography-heading-5-text-case
+    ),
+    'heading 6': (
+      'description': 'Titres des profils articles de la HP Event
+Titres articles dans la sélection',
+      'fontSize': $typography-heading-6-font-size,
+      'textDecoration': $typography-heading-6-text-decoration,
+      'fontFamily': $typography-heading-6-font-family,
+      'fontWeight': $typography-heading-6-font-weight,
+      'fontStyle': $typography-heading-6-font-style,
+      'fontStretch': $typography-heading-6-font-stretch,
+      'letterSpacing': $typography-heading-6-letter-spacing,
+      'lineHeight': $typography-heading-6-line-height,
+      'paragraphIndent': $typography-heading-6-paragraph-indent,
+      'paragraphSpacing': $typography-heading-6-paragraph-spacing,
+      'textCase': $typography-heading-6-text-case
+    ),
+    'standfirst 1': (
+      'description': 'Chapo des pages articles',
+      'fontSize': $typography-standfirst-1-font-size,
+      'textDecoration': $typography-standfirst-1-text-decoration,
+      'fontFamily': $typography-standfirst-1-font-family,
+      'fontWeight': $typography-standfirst-1-font-weight,
+      'fontStyle': $typography-standfirst-1-font-style,
+      'fontStretch': $typography-standfirst-1-font-stretch,
+      'letterSpacing': $typography-standfirst-1-letter-spacing,
+      'lineHeight': $typography-standfirst-1-line-height,
+      'paragraphIndent': $typography-standfirst-1-paragraph-indent,
+      'paragraphSpacing': $typography-standfirst-1-paragraph-spacing,
+      'textCase': $typography-standfirst-1-text-case
+    ),
+    'standfirst 2': (
+      'description': 'Chapo de la HP Event',
+      'fontSize': $typography-standfirst-2-font-size,
+      'textDecoration': $typography-standfirst-2-text-decoration,
+      'fontFamily': $typography-standfirst-2-font-family,
+      'fontWeight': $typography-standfirst-2-font-weight,
+      'fontStyle': $typography-standfirst-2-font-style,
+      'fontStretch': $typography-standfirst-2-font-stretch,
+      'letterSpacing': $typography-standfirst-2-letter-spacing,
+      'lineHeight': $typography-standfirst-2-line-height,
+      'paragraphIndent': $typography-standfirst-2-paragraph-indent,
+      'paragraphSpacing': $typography-standfirst-2-paragraph-spacing,
+      'textCase': $typography-standfirst-2-text-case
+    ),
+    'standfirst 3': (
+      'description': 'Chapo HP Event 2 tiers',
+      'fontSize': $typography-standfirst-3-font-size,
+      'textDecoration': $typography-standfirst-3-text-decoration,
+      'fontFamily': $typography-standfirst-3-font-family,
+      'fontWeight': $typography-standfirst-3-font-weight,
+      'fontStyle': $typography-standfirst-3-font-style,
+      'fontStretch': $typography-standfirst-3-font-stretch,
+      'letterSpacing': $typography-standfirst-3-letter-spacing,
+      'lineHeight': $typography-standfirst-3-line-height,
+      'paragraphIndent': $typography-standfirst-3-paragraph-indent,
+      'paragraphSpacing': $typography-standfirst-3-paragraph-spacing,
+      'textCase': $typography-standfirst-3-text-case
+    ),
+    'standfirst 4': (
+      'description': 'Chapo profils position 1
+Chapo premier article d'un ensemble en première position',
+      'fontSize': $typography-standfirst-4-font-size,
+      'textDecoration': $typography-standfirst-4-text-decoration,
+      'fontFamily': $typography-standfirst-4-font-family,
+      'fontWeight': $typography-standfirst-4-font-weight,
+      'fontStyle': $typography-standfirst-4-font-style,
+      'fontStretch': $typography-standfirst-4-font-stretch,
+      'letterSpacing': $typography-standfirst-4-letter-spacing,
+      'lineHeight': $typography-standfirst-4-line-height,
+      'paragraphIndent': $typography-standfirst-4-paragraph-indent,
+      'paragraphSpacing': $typography-standfirst-4-paragraph-spacing,
+      'textCase': $typography-standfirst-4-text-case
+    ),
+    'standfirst 5': (
+      'description': 'Chapo des articles du fleuve
+Chapo des articles de tranches
+Articles mini-home auto
+Chapo des proils en première position',
+      'fontSize': $typography-standfirst-5-font-size,
+      'textDecoration': $typography-standfirst-5-text-decoration,
+      'fontFamily': $typography-standfirst-5-font-family,
+      'fontWeight': $typography-standfirst-5-font-weight,
+      'fontStyle': $typography-standfirst-5-font-style,
+      'fontStretch': $typography-standfirst-5-font-stretch,
+      'letterSpacing': $typography-standfirst-5-letter-spacing,
+      'lineHeight': $typography-standfirst-5-line-height,
+      'paragraphIndent': $typography-standfirst-5-paragraph-indent,
+      'paragraphSpacing': $typography-standfirst-5-paragraph-spacing,
+      'textCase': $typography-standfirst-5-text-case
+    ),
+    'body': (
+      'description': 'Corps de texte dans les articles',
+      'fontSize': $typography-body-font-size,
+      'textDecoration': $typography-body-text-decoration,
+      'fontFamily': $typography-body-font-family,
+      'fontWeight': $typography-body-font-weight,
+      'fontStyle': $typography-body-font-style,
+      'fontStretch': $typography-body-font-stretch,
+      'letterSpacing': $typography-body-letter-spacing,
+      'lineHeight': $typography-body-line-height,
+      'paragraphIndent': $typography-body-paragraph-indent,
+      'paragraphSpacing': $typography-body-paragraph-spacing,
+      'textCase': $typography-body-text-case
+    ),
+    'quote': (
+      'fontSize': $typography-quote-font-size,
+      'textDecoration': $typography-quote-text-decoration,
+      'fontFamily': $typography-quote-font-family,
+      'fontWeight': $typography-quote-font-weight,
+      'fontStyle': $typography-quote-font-style,
+      'fontStretch': $typography-quote-font-stretch,
+      'letterSpacing': $typography-quote-letter-spacing,
+      'lineHeight': $typography-quote-line-height,
+      'paragraphIndent': $typography-quote-paragraph-indent,
+      'paragraphSpacing': $typography-quote-paragraph-spacing,
+      'textCase': $typography-quote-text-case
+    ),
+    'title 1': (
+      'description': 'Titres des tranches partenaires
+Titre du Flash sur la page Flash',
+      'fontSize': $typography-title-1-font-size,
+      'textDecoration': $typography-title-1-text-decoration,
+      'fontFamily': $typography-title-1-font-family,
+      'fontWeight': $typography-title-1-font-weight,
+      'fontStyle': $typography-title-1-font-style,
+      'fontStretch': $typography-title-1-font-stretch,
+      'letterSpacing': $typography-title-1-letter-spacing,
+      'lineHeight': $typography-title-1-line-height,
+      'paragraphIndent': $typography-title-1-paragraph-indent,
+      'paragraphSpacing': $typography-title-1-paragraph-spacing,
+      'textCase': $typography-title-1-text-case
+    ),
+    'title 2': (
+      'description': 'Titres des widgets sport',
+      'fontSize': $typography-title-2-font-size,
+      'textDecoration': $typography-title-2-text-decoration,
+      'fontFamily': $typography-title-2-font-family,
+      'fontWeight': $typography-title-2-font-weight,
+      'fontStyle': $typography-title-2-font-style,
+      'fontStretch': $typography-title-2-font-stretch,
+      'letterSpacing': $typography-title-2-letter-spacing,
+      'lineHeight': $typography-title-2-line-height,
+      'paragraphIndent': $typography-title-2-paragraph-indent,
+      'paragraphSpacing': $typography-title-2-paragraph-spacing,
+      'textCase': $typography-title-2-text-case
+    ),
+    'title 3': (
+      'description': 'Titre de la recommandation
+Titre des commentaires
+Titre mini-home auto
+Titre d'articles des flash sur la page flash
+Titre du footer SEO',
+      'fontSize': $typography-title-3-font-size,
+      'textDecoration': $typography-title-3-text-decoration,
+      'fontFamily': $typography-title-3-font-family,
+      'fontWeight': $typography-title-3-font-weight,
+      'fontStyle': $typography-title-3-font-style,
+      'fontStretch': $typography-title-3-font-stretch,
+      'letterSpacing': $typography-title-3-letter-spacing,
+      'lineHeight': $typography-title-3-line-height,
+      'paragraphIndent': $typography-title-3-paragraph-indent,
+      'paragraphSpacing': $typography-title-3-paragraph-spacing,
+      'textCase': $typography-title-3-text-case
+    ),
+    'title 4': (
+      'fontSize': $typography-title-4-font-size,
+      'textDecoration': $typography-title-4-text-decoration,
+      'fontFamily': $typography-title-4-font-family,
+      'fontWeight': $typography-title-4-font-weight,
+      'fontStyle': $typography-title-4-font-style,
+      'fontStretch': $typography-title-4-font-stretch,
+      'letterSpacing': $typography-title-4-letter-spacing,
+      'lineHeight': $typography-title-4-line-height,
+      'paragraphIndent': $typography-title-4-paragraph-indent,
+      'paragraphSpacing': $typography-title-4-paragraph-spacing,
+      'textCase': $typography-title-4-text-case
+    ),
+    'title 5': (
+      'fontSize': $typography-title-5-font-size,
+      'textDecoration': $typography-title-5-text-decoration,
+      'fontFamily': $typography-title-5-font-family,
+      'fontWeight': $typography-title-5-font-weight,
+      'fontStyle': $typography-title-5-font-style,
+      'fontStretch': $typography-title-5-font-stretch,
+      'letterSpacing': $typography-title-5-letter-spacing,
+      'lineHeight': $typography-title-5-line-height,
+      'paragraphIndent': $typography-title-5-paragraph-indent,
+      'paragraphSpacing': $typography-title-5-paragraph-spacing,
+      'textCase': $typography-title-5-text-case
+    ),
+    'caption 1': (
+      'description': 'Label de connexion dans le paywall
+Crédits des citations
+Titre de l'alerte
+Date de publication
+Auteur de l'article
+Texte de l'encadré',
+      'fontSize': $typography-caption-1-font-size,
+      'textDecoration': $typography-caption-1-text-decoration,
+      'fontFamily': $typography-caption-1-font-family,
+      'fontWeight': $typography-caption-1-font-weight,
+      'fontStyle': $typography-caption-1-font-style,
+      'fontStretch': $typography-caption-1-font-stretch,
+      'letterSpacing': $typography-caption-1-letter-spacing,
+      'lineHeight': $typography-caption-1-line-height,
+      'paragraphIndent': $typography-caption-1-paragraph-indent,
+      'paragraphSpacing': $typography-caption-1-paragraph-spacing,
+      'textCase': $typography-caption-1-text-case
+    ),
+    'caption 2': (
+      'description': 'Chapo des articles dans la page flash
+Slug
+Date de publication des commentaires
+Date de publication dans le fleuve
+Fil d'Ariane
+Mention partenariat
+Liens du footer SEO
+Labels sponsorisés
+Labels des boutons',
+      'fontSize': $typography-caption-2-font-size,
+      'textDecoration': $typography-caption-2-text-decoration,
+      'fontFamily': $typography-caption-2-font-family,
+      'fontWeight': $typography-caption-2-font-weight,
+      'fontStyle': $typography-caption-2-font-style,
+      'fontStretch': $typography-caption-2-font-stretch,
+      'letterSpacing': $typography-caption-2-letter-spacing,
+      'lineHeight': $typography-caption-2-line-height,
+      'paragraphIndent': $typography-caption-2-paragraph-indent,
+      'paragraphSpacing': $typography-caption-2-paragraph-spacing,
+      'textCase': $typography-caption-2-text-case
+    ),
+    'caption 3': (
+      'description': '???',
+      'fontSize': $typography-caption-3-font-size,
+      'textDecoration': $typography-caption-3-text-decoration,
+      'fontFamily': $typography-caption-3-font-family,
+      'fontWeight': $typography-caption-3-font-weight,
+      'fontStyle': $typography-caption-3-font-style,
+      'fontStretch': $typography-caption-3-font-stretch,
+      'letterSpacing': $typography-caption-3-letter-spacing,
+      'lineHeight': $typography-caption-3-line-height,
+      'paragraphIndent': $typography-caption-3-paragraph-indent,
+      'paragraphSpacing': $typography-caption-3-paragraph-spacing,
+      'textCase': $typography-caption-3-text-case
+    ),
+    'link 1': (
+      'description': 'Nom de l'auteur cliquable',
+      'fontSize': $typography-link-1-font-size,
+      'textDecoration': $typography-link-1-text-decoration,
+      'fontFamily': $typography-link-1-font-family,
+      'fontWeight': $typography-link-1-font-weight,
+      'fontStyle': $typography-link-1-font-style,
+      'fontStretch': $typography-link-1-font-stretch,
+      'letterSpacing': $typography-link-1-letter-spacing,
+      'lineHeight': $typography-link-1-line-height,
+      'paragraphIndent': $typography-link-1-paragraph-indent,
+      'paragraphSpacing': $typography-link-1-paragraph-spacing,
+      'textCase': $typography-link-1-text-case
+    ),
+    'link 2': (
+      'description': 'Lien vers les articles dans les articles',
+      'fontSize': $typography-link-2-font-size,
+      'textDecoration': $typography-link-2-text-decoration,
+      'fontFamily': $typography-link-2-font-family,
+      'fontWeight': $typography-link-2-font-weight,
+      'fontStyle': $typography-link-2-font-style,
+      'fontStretch': $typography-link-2-font-stretch,
+      'letterSpacing': $typography-link-2-letter-spacing,
+      'lineHeight': $typography-link-2-line-height,
+      'paragraphIndent': $typography-link-2-paragraph-indent,
+      'paragraphSpacing': $typography-link-2-paragraph-spacing,
+      'textCase': $typography-link-2-text-case
+    ),
+    'link 3': (
+      'description': 'Tags',
+      'fontSize': $typography-link-3-font-size,
+      'textDecoration': $typography-link-3-text-decoration,
+      'fontFamily': $typography-link-3-font-family,
+      'fontWeight': $typography-link-3-font-weight,
+      'fontStyle': $typography-link-3-font-style,
+      'fontStretch': $typography-link-3-font-stretch,
+      'letterSpacing': $typography-link-3-letter-spacing,
+      'lineHeight': $typography-link-3-line-height,
+      'paragraphIndent': $typography-link-3-paragraph-indent,
+      'paragraphSpacing': $typography-link-3-paragraph-spacing,
+      'textCase': $typography-link-3-text-case
+    ),
+    'button': (
+      'description': 'Labels des boutons',
+      'fontSize': $typography-button-font-size,
+      'textDecoration': $typography-button-text-decoration,
+      'fontFamily': $typography-button-font-family,
+      'fontWeight': $typography-button-font-weight,
+      'fontStyle': $typography-button-font-style,
+      'fontStretch': $typography-button-font-stretch,
+      'letterSpacing': $typography-button-letter-spacing,
+      'lineHeight': $typography-button-line-height,
+      'paragraphIndent': $typography-button-paragraph-indent,
+      'paragraphSpacing': $typography-button-paragraph-spacing,
+      'textCase': $typography-button-text-case
+    ),
+    'credit': (
+      'description': 'Crédits d'une image',
+      'fontSize': $typography-credit-font-size,
+      'textDecoration': $typography-credit-text-decoration,
+      'fontFamily': $typography-credit-font-family,
+      'fontWeight': $typography-credit-font-weight,
+      'fontStyle': $typography-credit-font-style,
+      'fontStretch': $typography-credit-font-stretch,
+      'letterSpacing': $typography-credit-letter-spacing,
+      'lineHeight': $typography-credit-line-height,
+      'paragraphIndent': $typography-credit-paragraph-indent,
+      'paragraphSpacing': $typography-credit-paragraph-spacing,
+      'textCase': $typography-credit-text-case
+    )
+  )
+);

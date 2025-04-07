@@ -1,8 +1,20 @@
 {
   "source": ["tokens/**/*.json"],
   "platforms": {
+    "scss": {
+      "transformGroup": "scss",
+      "transforms": ["name/kebab", "color/hsl", "size/pxToRem", "fontFamily/css", "border/css/shorthand", "typography/css/shorthand"],
+      "buildPath": "build/scss/",
+      "files": [
+        {
+          "destination": "_variables.scss",
+          "format": "scss/map-deep"
+        }
+      ]
+    },
     "css": {
       "transformGroup": "css",
+      "transforms": ["name/kebab", "color/hsl", "size/pxToRem", "fontFamily/css", "border/css/shorthand", "typography/css/shorthand"],
       "buildPath": "build/css/",
       "files": [
         {
