@@ -20,6 +20,6 @@
     "style-dictionary": "^4.3.3"
   },
   "scripts": {
-    "build-tokens": "style-dictionary build"
+    "build-tokens": "style-dictionary build --verbose"
   }
 }
